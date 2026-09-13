@@ -1,0 +1,68 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "outputDirectory": "server/public",
+  "functions": {
+    "api/index.js": {
+      "maxDuration": 30
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/docs",
+      "destination": "/docs.html"
+    },
+    {
+      "source": "/reader",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/docs/api-definition.yaml",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/api/:path*",
+      "destination": "/api/index.js"
+    },
+    {
+      "source": "/data/:path*",
+      "destination": "/api/index.js"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/docs",
+      "permanent": true
+    },
+    {
+      "source": "/docs.html",
+      "destination": "/docs",
+      "permanent": true
+    },
+    {
+      "source": "/index.html",
+      "destination": "/reader",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/docs",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        }
+      ]
+    },
+    {
+      "source": "/docs.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        }
+      ]
+    }
+  ]
+}

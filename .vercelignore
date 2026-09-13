@@ -1,0 +1,12 @@
+node_modules
+.git
+.env
+*.log
+.DS_Store
+README.md
+README_API.md
+scripts/
+.vscode/
+data/json/reads_timing_data/
+data/quran_pages_svg/
+l

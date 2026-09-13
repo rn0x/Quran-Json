@@ -13,6 +13,6 @@ export default (req, res) => {
         url: requestUrl,
         error: '📄 Page Not Found.',
         message: '🔍 Please check the URL or return to the homepage.',
-        suggestion: '👥 If you need assistance, please contact support.\n⤷ https://github.com/rn0x',
+        suggestion: '👥 If you need assistance, please contact support.\n⤷ https://github.com/msr7799',
     });
 };

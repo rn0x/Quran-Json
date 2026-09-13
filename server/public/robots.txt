@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /data/
+
+Sitemap: https://msr-quran-data.vercel.app/sitemap.xml

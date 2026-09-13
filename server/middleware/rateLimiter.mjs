@@ -9,7 +9,7 @@ export default rateLimit({
         success: false,
         error: '🛑 Rate Limit Exceeded.',
         message: '🚫 You have exceeded the maximum allowed request limit.',
-        suggestion: '⏳ Please wait a few minutes before trying again. If you believe this is an error, contact support.\n⤷ https://github.com/rn0x',
+        suggestion: '⏳ Please wait a few minutes before trying again. If you believe this is an error, contact support.\n⤷ https://github.com/msr7799',
         details: '📅 The rate limit resets every 15 minutes.',
     },
 });

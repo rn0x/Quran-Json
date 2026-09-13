@@ -156,6 +156,48 @@ export const getAudio = (req, res) => {
     }
 };
 
+/**
+ * جلب الملفات الصوتية لسورة وقارئ معين
+ * GET /api/audio/:surah_id/:reciter
+ */
+export const getAudioByReciter = (req, res) => {
+    const surahId = req.query.surah_id || req.params.surah_id;
+    const reciter = req.query.reciter || req.params.reciter;
+    const audioPath = path.join(audioFolderPath, `audio_surah_${surahId}.json`);
+
+    if (!fs.existsSync(audioPath)) {
+        return handleError(res, 404, 'The requested audio does not exist.', {
+            surah_id: surahId,
+        });
+    }
+
+    try {
+        const audioData = fs.readJSONSync(audioPath);
+        // فلترة النتائج حسب اسم القارئ (ar أو en)
+        const filtered = audioData.filter(item => {
+            if (!item.reciter) return false;
+            return (item.reciter.ar && item.reciter.ar.includes(reciter)) ||
+                   (item.reciter.en && item.reciter.en.toLowerCase().includes(reciter.toLowerCase()));
+        });
+        if (filtered.length === 0) {
+            return handleError(res, 404, 'لا يوجد ملفات صوتية لهذا القارئ في هذه السورة', {
+                surah_id: surahId,
+                reciter: reciter
+            });
+        }
+        res.json({
+            success: true,
+            result: filtered
+        });
+    } catch (error) {
+        handleError(res, 500, 'An error occurred while fetching audio data.', {
+            surah_id: surahId,
+            reciter: reciter,
+            message: error.message,
+        });
+    }
+};
+
 export const getVersesByJuz = (req, res) => {
     const juzId = parseInt(req.query.juz_id || req.params.juz_id, 10);
     const surahFiles = fs.readdirSync(surahFolderPath);

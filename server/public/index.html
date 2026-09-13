@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+    <meta
+      name="description"
+      content="اقرأ القرآن الكريم واستمع إلى تلاوات القراء في مصحف تفاعلي مجاني، مع تشغيل السور والآيات وتتبع الآية والكلمة اعتمادًا على Quran Data API."
+    />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="google-site-verification" content="tedQd55zrvYnRtg8uOcxm7sTuI3AZhKVSyQU-2Gq9pg" />
+    <meta name="google-adsense-account" content="ca-pub-2259594031936212" />
+    <link rel="canonical" href="https://msr-quran-data.vercel.app/reader" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="ar_AR" />
+    <meta property="og:site_name" content="Quran Data" />
+    <meta property="og:title" content="المصحف التفاعلي | قراءة واستماع للقرآن الكريم" />
+    <meta property="og:description" content="مصحف تفاعلي مجاني لقراءة القرآن والاستماع إلى التلاوات مع تتبع الآيات والكلمات." />
+    <meta property="og:url" content="https://msr-quran-data.vercel.app/reader" />
+    <meta property="og:image" content="https://msr-quran-data.vercel.app/Quran-Data.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="المصحف التفاعلي | Quran Data" />
+    <meta name="twitter:description" content="قراءة واستماع للقرآن الكريم مع تتبع الآيات والكلمات." />
+    <meta name="twitter:image" content="https://msr-quran-data.vercel.app/Quran-Data.png" />
+    <meta name="theme-color" content="#050505" />
+    <title>المصحف التفاعلي | قراءة واستماع للقرآن الكريم</title>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2259594031936212" crossorigin="anonymous"></script>
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="/reader.css" />
+  </head>
+  <body>
+    <header class="topbar w-full">
+      <a class="brand" href="/"
+        ><img src="/icon-192.png" alt="" /><span
+          ><b>Quran Data</b><small>المصحف التفاعلي</small></span
+        ></a
+      >
+      <nav>
+        <a class="active" href="/">المصحف</a><a href="#reciters">القراء</a
+        ><a href="#api-lab">API</a><a href="/">التوثيق</a>
+      </nav>
+      <button
+        id="themeBtn"
+        class="icon-btn"
+        type="button"
+        aria-label="تبديل المظهر"
+      >
+        ☾
+      </button>
+    </header>
+
+    <main class="w-full">
+      <section class="hero w-full">
+        <div>
+          <p class="basmala-small">بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ</p>
+          <h1>اقرأ القرآن واستمع إليه مع تتبع الآية والكلمة</h1>
+          <p>
+            الواجهة تقرأ الداتا الموجودة في المشروع مباشرة: نص عثماني مشكول، 114
+            سورة، صور القراء، تسجيلات السور، وبيانات التوقيت آيةً بآية عندما
+            تكون متاحة.
+          </p>
+        </div>
+        <div class="stats">
+          <div><b id="statSurahs">114</b><span>سورة</span></div>
+          <div><b id="statReciters">—</b><span>قارئ</span></div>
+          <div><b id="statTracked">—</b><span>تسجيل تتبع</span></div>
+          <div><b>6,236</b><span>آية</span></div>
+        </div>
+      </section>
+
+      <section class="toolbar w-full">
+        <label
+          ><span>القارئ</span
+          ><select id="reciterSelect"></select
+        ></label>
+        <label
+          ><span>السورة</span
+          ><select id="surahSelect"></select
+        ></label>
+        <label
+          ><span>الترجمة</span
+          ><select id="translationSelect">
+            <option value="ar">العربية فقط</option>
+            <option value="both">العربية + الإنجليزية</option>
+          </select></label
+        >
+        <button id="loadBtn" class="primary" type="button">عرض السورة</button>
+      </section>
+
+      <section class="reader-layout w-full">
+        <aside class="side-card">
+          <div class="profile">
+            <div class="avatar-wrap">
+              <img
+                id="reciterImage"
+                src="/quran-data-icon.svg"
+                alt="صورة القارئ"
+              /><i id="trackingDot"></i>
+            </div>
+            <h2 id="reciterName">تحميل القراء…</h2>
+            <p id="reciterEnglish"></p>
+            <span id="reciterRewaya" class="pill">—</span>
+            <div id="reciterBadges" class="badges"></div>
+          </div>
+          <div class="player">
+            <small>يُتلى الآن</small><b id="nowPlaying">—</b>
+            <audio id="audioPlayer" controls preload="metadata"></audio>
+            <div class="player-actions">
+              <button id="prevAyahBtn" type="button">→</button
+              ><button id="playSurahBtn" class="primary" type="button">
+                ▶ تشغيل السورة</button
+              ><button id="nextAyahBtn" type="button">←</button>
+            </div>
+            <div class="toggles">
+              <label
+                ><input id="autoScrollToggle" type="checkbox" checked /> تتبع
+                تلقائي</label
+              ><label
+                ><input id="wordTrackToggle" type="checkbox" checked /> تظليل
+                الكلمات</label
+              >
+            </div>
+            <p id="trackingNote" class="note">
+              سيظهر نوع التتبع بعد اختيار القارئ.
+            </p>
+          </div>
+          <div class="mini-surah">
+            <div class="surah-art-mini">
+              <img id="surahNameImage" alt="اسم السورة" />
+            </div>
+            <div>
+              <b id="surahMiniName">—</b><small id="surahMiniMeta">—</small>
+            </div>
+          </div>
+        </aside>
+
+        <section class="mushaf">
+          <div class="surah-head">
+            <div>
+              <span id="surahNumberBadge">سورة ١</span>
+              <h2 id="surahTitle">الفاتحة</h2>
+              <p id="surahSubtitle">—</p>
+            </div>
+            <div class="surah-art-large">
+              <img id="surahHeaderImage" alt="اسم السورة" />
+            </div>
+          </div>
+          <div id="bismillah" class="uthmani bismillah">
+            بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+          </div>
+          <div id="readerStatus" class="status">جاري تجهيز المصحف…</div>
+          <div id="versesContainer" class="verses"></div>
+        </section>
+      </section>
+
+      <section class="library w-full" id="reciters">
+        <div class="section-head">
+          <div>
+            <small>المكتبة الصوتية</small>
+            <h2>كل القراء في الداتا</h2>
+            <p>
+              اختر أي قارئ لتشغيل السورة. القراء بعلامة «تتبع» لديهم بيانات
+              إضافية لربط الصوت بالآيات.
+            </p>
+          </div>
+          <input id="reciterSearch" type="search" placeholder="ابحث عن قارئ…" />
+        </div>
+        <div id="recitersGrid" class="reciters-grid"></div>
+        <button id="showMoreRecitersBtn" class="secondary more" type="button">
+          عرض المزيد
+        </button>
+      </section>
+
+      <section class="api-section w-full" id="api-lab">
+        <div class="section-head">
+          <div>
+            <small>للمطورين</small>
+            <h2>مختبر API حي</h2>
+            <p>الأمثلة تتغير تلقائيًا بحسب القارئ والسورة والآية المختارة.</p>
+          </div>
+        </div>
+        <div class="api-grid">
+          <div id="endpointList" class="endpoint-list"></div>
+          <div class="console">
+            <form id="routeForm" class="route-form" autocomplete="off">
+              <label for="routeInput">اكتب مسار API لتجربته مباشرة</label>
+              <div class="route-input-row" dir="ltr">
+                <span class="route-method" aria-hidden="true">GET</span>
+                <input
+                  id="routeInput"
+                  name="route"
+                  type="text"
+                  inputmode="url"
+                  spellcheck="false"
+                  placeholder="/api/surah/1"
+                  aria-describedby="routeHelp"
+                />
+                <button class="primary" type="submit">عرض النتيجة</button>
+              </div>
+              <small id="routeHelp">يمكنك كتابة مسار مثل /api/verse/2/255 أو لصق رابط من هذا الموقع.</small>
+            </form>
+            <div class="console-bar">
+              <code id="activeEndpoint">GET /api/surah/1</code>
+              <div>
+                <button id="runEndpointBtn" class="primary sm" type="button">
+                  تشغيل</button
+                ><button
+                  id="copyEndpointBtn"
+                  class="secondary sm"
+                  type="button"
+                >
+                  نسخ الرابط
+                </button>
+              </div>
+            </div>
+            <div class="tabs">
+              <button class="tab active" data-code-tab="json" type="button">
+                JSON</button
+              ><button class="tab" data-code-tab="js" type="button">
+                JavaScript</button
+              ><button class="tab" data-code-tab="curl" type="button">
+                cURL
+              </button>
+            </div>
+            <div
+              id="apiVisualOutput"
+              class="api-visual-output"
+              aria-live="polite"
+              hidden
+            ></div>
+            <pre id="apiOutput">اضغط «تشغيل» لمشاهدة JSON الفعلي.</pre>
+          </div>
+        </div>
+        <div class="flow">
+          <article>
+            <b>1</b><strong>السورة والنص</strong><code>/api/surah/:id</code>
+            <p>النص العثماني، الترجمة وروابط التلاوات.</p>
+          </article>
+          <article>
+            <b>2</b><strong>القارئ والصورة</strong
+            ><code>/api/reciter-images</code>
+            <p>ID القارئ يطابق بادئة ملف الصورة.</p>
+          </article>
+          <article>
+            <b>3</b><strong>تتبع السورة</strong
+            ><code>/api/ayah-bayah/:reciter/:surah</code>
+            <p>صوت السورة وتوقيت الآيات والكلمات.</p>
+          </article>
+          <article>
+            <b>4</b><strong>آية منفردة</strong
+            ><code>/api/ayah-bayah/:reciter/:surah/:ayah</code>
+            <p>ملف الآية أو موقعها الزمني داخل السورة.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <span>Quran Data — مصحف تفاعلي مبني على بيانات المشروع نفسها.</span>
+      <div>
+        <a href="/">API Docs</a
+        ><a href="/docs/api-definition.yaml">OpenAPI</a>
+      </div>
+    </footer>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script src="/reader.js" defer></script>
+  </body>
+</html>

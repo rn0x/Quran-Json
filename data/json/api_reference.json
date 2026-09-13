@@ -1,0 +1,718 @@
+{
+  "api_info": {
+    "title": "Quran Data API",
+    "description": "واجهة برمجة تطبيقات القرآن الكريم للنسخة الفعّالة على Vercel، مع دعم البيانات الأساسية فقط للـ API المتاح في الإنتاج.",
+    "version": "3.1.0",
+    "base_url": "https://msr-quran-data.vercel.app/api",
+    "documentation_url": "https://msr-quran-data.vercel.app/docs",
+    "github_url": "https://github.com/Msr7799/Quran-Data",
+    "deployment": {
+      "platform": "Vercel",
+      "status": "Active",
+      "uptime": "99.9%",
+      "average_response_time": "300-800ms"
+    },
+    "supported_in_production": [
+      "surahs",
+      "verses",
+      "juz",
+      "pages",
+      "sajda",
+      "audio",
+      "reciters",
+      "ayah-audio",
+      "ayah-bayah",
+      "reciter-images",
+      "surah-names",
+      "api-reference"
+    ],
+    "unsupported_in_production": [
+      "timing endpoints that require SQLite on the server"
+    ]
+  },
+  "statistics": {
+    "total_surahs": 114,
+    "total_verses": 6236,
+    "total_pages": 604,
+    "total_juz": 30,
+    "total_sajda_verses": 15,
+    "total_audio_reciters": 158,
+    "ayah_audio_reciters": 38,
+    "reciter_images_catalog": 38,
+    "surah_names_count": 114
+  },
+  "endpoints": {
+    "surahs": {
+      "description": "إدارة السور - جلب قائمة السور أو بيانات سورة معينة",
+      "routes": [
+        {
+          "method": "GET",
+          "path": "/surahs",
+          "description": "جلب جميع السور مع المعلومات الأساسية لكل سورة",
+          "parameters": "لا يوجد",
+          "response_example": {
+            "success": true,
+            "data": [
+              {
+                "number": 1,
+                "name": {
+                  "ar": "الفاتحة",
+                  "en": "Al-Fatihah",
+                  "transliteration": "Al-Fatihah"
+                },
+                "revelation_place": {
+                  "ar": "مكية",
+                  "en": "meccan"
+                },
+                "verses_count": 7,
+                "words_count": 29,
+                "letters_count": 139
+              }
+            ]
+          },
+          "use_cases": [
+            "عرض قائمة السور",
+            "بناء فهرس التطبيق",
+            "تجهيز بيانات التصفح"
+          ]
+        },
+        {
+          "method": "GET",
+          "path": "/surah/:surah_id",
+          "description": "جلب بيانات سورة محددة مع جميع آياتها",
+          "parameters": {
+            "surah_id": "رقم السورة (1-114)"
+          },
+          "response_example": {
+            "success": true,
+            "data": {
+              "number": 1,
+              "name": {
+                "ar": "الفاتحة",
+                "en": "Al-Fatihah",
+                "transliteration": "Al-Fatihah"
+              },
+              "verses": [
+                {
+                  "number": 1,
+                  "text": {
+                    "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                    "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful."
+                  },
+                  "juz": 1,
+                  "page": 1,
+                  "sajda": false
+                }
+              ]
+            }
+          },
+          "use_cases": [
+            "عرض سورة كاملة",
+            "تطبيقات المصحف الرقمي",
+            "البحث داخل سورة معينة"
+          ]
+        }
+      ]
+    },
+    "verses": {
+      "description": "إدارة الآيات - جلب آيات السورة أو آية واحدة",
+      "routes": [
+        {
+          "method": "GET",
+          "path": "/verses/:surah_id",
+          "description": "جلب جميع آيات سورة محددة",
+          "parameters": {
+            "surah_id": "رقم السورة (1-114)"
+          },
+          "response_example": {
+            "success": true,
+            "data": {
+              "surah_info": {
+                "number": 1,
+                "name": "الفاتحة",
+                "verses_count": 7
+              },
+              "verses": [
+                {
+                  "number": 1,
+                  "text": {
+                    "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                    "en": "In the name of Allah..."
+                  },
+                  "juz": 1,
+                  "page": 1
+                }
+              ]
+            }
+          },
+          "use_cases": [
+            "تطبيقات القراءة",
+            "جدول الحفظ",
+            "التفسير التفاعلي"
+          ]
+        },
+        {
+          "method": "GET",
+          "path": "/verse/:surah_id/:verse_id",
+          "description": "جلب آية واحدة فقط",
+          "parameters": {
+            "surah_id": "رقم السورة (1-114)",
+            "verse_id": "رقم الآية"
+          },
+          "response_example": {
+            "success": true,
+            "data": {
+              "verse": {
+                "surah_number": 1,
+                "verse_number": 1,
+                "text": {
+                  "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                  "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful."
+                },
+                "juz": 1,
+                "page": 1,
+                "sajda": false
+              }
+            }
+          },
+          "use_cases": [
+            "عرض آية اليوم",
+            "إشارات التفسير",
+            "التأمل الفردي"
+          ]
+        }
+      ]
+    },
+    "juz": {
+      "description": "الأجزاء - جلب آيات جزء محدد",
+      "routes": [
+        {
+          "method": "GET",
+          "path": "/juz/:juz_id",
+          "description": "إرجاع آيات جزء محدد من القرآن",
+          "parameters": {
+            "juz_id": "رقم الجزء (1-30)"
+          },
+          "response_example": {
+            "success": true,
+            "data": {
+              "juz_number": 1,
+              "total_verses": 148,
+              "verses": [
+                {
+                  "surah_number": 1,
+                  "verse_number": 1,
+                  "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                  "page": 1
+                }
+              ]
+            }
+          },
+          "use_cases": [
+            "ختم القرآن",
+            "حفظ الأجزاء",
+            "تطبيقات التوزيع اليومي"
+          ]
+        }
+      ]
+    },
+    "pages": {
+      "description": "الصفحات - معرفة صفحة الآية أو المعلومة المرتبطة بالصفحة",
+      "routes": [
+        {
+          "method": "GET",
+          "path": "/pages/:surah_id/:verse_id",
+          "description": "جلب رقم الصفحة المتعلق بآية معينة",
+          "parameters": {
+            "surah_id": "رقم السورة",
+            "verse_id": "رقم الآية"
+          },
+          "response_example": {
+            "success": true,
+            "data": {
+              "surah_number": 1,
+              "verse_number": 1,
+              "page_number": 1,
+              "verses_on_page": [
+                { "surah": 1, "verse": 1 }
+              ]
+            }
+          },
+          "use_cases": [
+            "المصحف الرقمي",
+            "التنقل بين الصفحات",
+            "طباعة صفحات معينة"
+          ]
+        }
+      ]
+    },
+    "sajda": {
+      "description": "آيات السجدة - الآيات المحتوية على سجدة تلاوة",
+      "routes": [
+        {
+          "method": "GET",
+          "path": "/sajda",
+          "description": "جلب جميع آيات السجدة في القرآن",
+          "parameters": "لا يوجد",
+          "response_example": {
+            "success": true,
+            "data": [
+              {
+                "surah_number": 7,
+                "surah_name": "الأعراف",
+                "verse_number": 206,
+                "juz": 9,
+                "page": 176,
+                "sajda_type": "recommended"
+              }
+            ]
+          },
+          "use_cases": [
+            "تطبيقات السجود",
+            "التذكير بمواقع السجدة",
+            "دراسة مواضع السجود"
+          ]
+        }
+      ]
+    },
+    "audio": {
+      "description": "الملفات الصوتية - روابط التلاوات الصوتية للسور",
+      "routes": [
+        {
+          "method": "GET",
+          "path": "/audio/:surah_id",
+          "description": "جلب كل ملفات الصوت المتاحة لسورة محددة",
+          "parameters": {
+            "surah_id": "رقم السورة (1-114)"
+          },
+          "response_example": {
+            "success": true,
+            "data": {
+              "surah_number": 1,
+              "surah_name": "الفاتحة",
+              "audio_files": [
+                {
+                  "id": 1,
+                  "reciter": {
+                    "ar": "عبد الباسط عبد الصمد",
+                    "en": "Abdul Basit Abdul Samad"
+                  },
+                  "rewaya": {
+                    "ar": "حفص عن عاصم",
+                    "en": "Hafs"
+                  },
+                  "server": "https://server.example.com",
+                  "link": "https://server.example.com/audio/001.mp3"
+                }
+              ]
+            }
+          },
+          "use_cases": [
+            "تشغيل التلاوة الصوتية",
+            "مقارنة أصوات القراء",
+            "تحميل الصوت للقراءة"
+          ]
+        },
+        {
+          "method": "GET",
+          "path": "/audio/:surah_id/:reciter",
+          "description": "جلب ملفات التلاوة لسورة معينة لقارئ محدد",
+          "parameters": {
+            "surah_id": "رقم السورة (1-114)",
+            "reciter": "اسم أو رقم القارئ"
+          },
+          "response_example": {
+            "success": true,
+            "data": {
+              "surah_number": 1,
+              "surah_name": "الفاتحة",
+              "reciter": "عبد الباسط عبد الصمد",
+              "audio_files": [
+                { "id": 1, "link": "https://server.example.com/audio/001.mp3" }
+              ]
+            }
+          },
+          "use_cases": [
+            "اختيار قارئ معين",
+            "تجهيز قائمة تشغيل السورة",
+            "مقارنة جودة القراءة"
+          ]
+        }
+      ]
+    },
+    "reciters": {
+      "description": "قائمة قراء التلاوة الصوتية المتاحين",
+      "routes": [
+        {
+          "method": "GET",
+          "path": "/reciters",
+          "description": "جلب جميع القراء الصوتيين المتاحين من قاعدة البيانات",
+          "parameters": "لا يوجد",
+          "response_example": {
+            "success": true,
+            "data": [
+              {
+                "id": 1,
+                "name": "عبد الباسط عبد الصمد",
+                "rewaya": "حفص عن عاصم",
+                "server": "https://server.example.com"
+              }
+            ],
+            "count": 158
+          },
+          "use_cases": [
+            "اختيار قارئ",
+            "عرض القراء المتاحين",
+            "تجهيز قوائم القراءة"
+          ]
+        }
+      ]
+    },
+    "ayah_audio": {
+      "description": "الصوت آية-بآية - بناء رابط ملفات MP3 لكل آية على حدة",
+      "routes": [
+        {
+          "method": "GET",
+          "path": "/ayah-audio/reciters",
+          "description": "عرض قائمة القراء المتاحين للصوت آية-بآية",
+          "parameters": "لا يوجد",
+          "response_example": {
+            "success": true,
+            "data": [
+              {
+                "id": 1,
+                "name": "إبراهيم الأخضر",
+                "rewaya": "حفص عن عاصم",
+                "musshaf_type": "مرتل"
+              }
+            ],
+            "count": 38
+          },
+          "use_cases": [
+            "اختيار قارئ آية-بآية",
+            "عرض الجودات المتاحة",
+            "بناء مشغل آية منفردة"
+          ]
+        },
+        {
+          "method": "GET",
+          "path": "/ayah-audio/:reciter/:surah_id/:verse_id",
+          "description": "إرجاع رابط ملف صوت الآية المحددة، مع دعم bitrate 32/64/128",
+          "parameters": {
+            "reciter": "رقم القارئ أو اسمه. مثال: 1",
+            "surah_id": "رقم السورة (1-114)",
+            "verse_id": "رقم الآية",
+            "bitrate": "اختياري: 32 أو 64 أو 128"
+          },
+          "response_example": {
+            "success": true,
+            "data": {
+              "reciter": {
+                "id": 1,
+                "name": "إبراهيم الأخضر",
+                "rewaya": "حفص عن عاصم",
+                "musshaf_type": "مرتل"
+              },
+              "surah_number": 1,
+              "verse_number": 1,
+              "file_name": "001001.mp3",
+              "audio_files": [
+                {
+                  "bitrate": 32,
+                  "url": "https://verse.mp3quran.net/arabic/ibrahim_alakhdar/32/001001.mp3"
+                }
+              ]
+            }
+          },
+          "use_cases": [
+            "تشغيل آية معينة",
+            "التكرار للحفظ",
+            "تحميل ملف آية محددة"
+          ]
+        }
+      ]
+    },
+    "ayah_bayah": {
+      "description": "التسجيلات الآية-بآية - بيانات دقيقة لكل آية مع رابط الصوت والتقسيمات",
+      "routes": [
+        {
+          "method": "GET",
+          "path": "/ayah-bayah/reciters",
+          "description": "قائمة قراء التسجيلات الآية-بآية المتاحين",
+          "parameters": "لا يوجد",
+          "response_example": {
+            "success": true,
+            "data": [
+              { "id": 1, "name": "إبراهيم الأخضر", "rewaya": "حفص عن عاصم" }
+            ],
+            "count": 38
+          },
+          "use_cases": [
+            "اختيار قارئ معيّن",
+            "استعراض أصوات الآية-بآية",
+            "مقارنة أنواع التسجيل"
+          ]
+        },
+        {
+          "method": "GET",
+          "path": "/ayah-bayah/reciter/:reciter_id",
+          "description": "تفاصيل قارئ محدد مع عينات من التسجيلات الآية-بآية",
+          "parameters": {
+            "reciter_id": "رقم القارئ"
+          },
+          "response_example": {
+            "success": true,
+            "data": {
+              "id": 1,
+              "name": "إبراهيم الأخضر",
+              "rewaya": "حفص عن عاصم",
+              "audio_files": []
+            }
+          },
+          "use_cases": [
+            "فحص الملف الصوتي للقارئ",
+            "اختيار بيانات التتبع الدقيقة"
+          ]
+        },
+        {
+          "method": "GET",
+          "path": "/ayah-bayah/:reciter_id/:surah_id",
+          "description": "جلب كل آيات سورة معينة مع بيانات الصوت والتقسيمات",
+          "parameters": {
+            "reciter_id": "رقم القارئ",
+            "surah_id": "رقم السورة"
+          },
+          "response_example": {
+            "success": true,
+            "data": {
+              "reciter": { "id": 1, "name": "إبراهيم الأخضر" },
+              "surah_number": 1,
+              "ayahs": [],
+              "segments_count": 0
+            }
+          },
+          "use_cases": [
+            "التتبع الآي على مستوى السورة",
+            "استعراض قراءات الآية-بآية",
+            "بناء أدوات المراجعة"
+          ]
+        },
+        {
+          "method": "GET",
+          "path": "/ayah-bayah/:reciter_id/:surah_id/:verse_id",
+          "description": "جلب بيانات آية واحدة مع رابطها الصوتي وقسماتها",
+          "parameters": {
+            "reciter_id": "رقم القارئ",
+            "surah_id": "رقم السورة",
+            "verse_id": "رقم الآية"
+          },
+          "response_example": {
+            "success": true,
+            "data": {
+              "reciter": { "id": 1, "name": "إبراهيم الأخضر" },
+              "surah_number": 1,
+              "verse_number": 1,
+              "ayah_audio_url": "https://example.com/001001.mp3",
+              "segment": { "key": "1:1", "ayah": 1 }
+            }
+          },
+          "use_cases": [
+            "استرجاع آية محددة",
+            "مزامنة القراءة",
+            "مراجعة التتبع الصوتي"
+          ]
+        }
+      ]
+    },
+    "reciter_images": {
+      "description": "صور القراء - بيانات صور القراء وارتباطاتها",
+      "routes": [
+        {
+          "method": "GET",
+          "path": "/reciter-images",
+          "description": "جلب صور القراء ومعلوماتها مع مصادرها",
+          "parameters": "لا يوجد",
+          "response_example": {
+            "success": true,
+            "data": [
+              {
+                "id": 1,
+                "name": "إبراهيم الأخضر",
+                "reciter": "ibrahim_alakhdar",
+                "image_url": "https://example.com/image.jpg"
+              }
+            ],
+            "count": 38
+          },
+          "use_cases": [
+            "عرض صور القراء",
+            "واجهات المستخدم التفاعلية",
+            "استعراض المراجع الصوتية"
+          ]
+        }
+      ]
+    },
+    "surah_names": {
+      "description": "أسماء السور - أسماء السور مع صورها إن وجدت",
+      "routes": [
+        {
+          "method": "GET",
+          "path": "/surah-names",
+          "description": "إرجاع أسماء جميع السور مع صورة كل سورة إذا كانت متاحة",
+          "parameters": "لا يوجد",
+          "response_example": {
+            "success": true,
+            "data": [
+              {
+                "number": 1,
+                "name": {
+                  "ar": "الفاتحة",
+                  "en": "Al-Fatihah",
+                  "transliteration": "Al-Fatihah"
+                },
+                "image_url": "/data/suwer-name/001.svg"
+              }
+            ],
+            "count": 114
+          },
+          "use_cases": [
+            "عرض قائمة أسماء السور",
+            "واجهات المصحف",
+            "تصنيفات السور والمحتوى البصري"
+          ]
+        }
+      ]
+    },
+    "api_reference": {
+      "description": "مرجع API - استرجاع وثائق كاملة للنسخة الحالية",
+      "routes": [
+        {
+          "method": "GET",
+          "path": "/api-reference",
+          "description": "إرجاع المرجع الحالي للـ API مع إحصائياته وبياناته",
+          "parameters": "لا يوجد",
+          "response_example": {
+            "success": true,
+            "data": {
+              "api_info": {
+                "title": "Quran Data API",
+                "version": "3.1.0",
+               "base_url": "https://msr-quran-data.vercel.app/api"
+              },
+              "statistics": {
+                "total_surahs": 114,
+                "total_verses": 6236,
+                "total_audio_reciters": 158
+              },
+              "endpoints": "جميع endpoints المدعومة في النسخة الحالية"
+            }
+          },
+          "use_cases": [
+            "توثيق التطبيقات",
+            "إنشاء واجهات المستخدم",
+            "مراجع المطورين",
+            "التكامل مع أدوات التوثيق"
+          ]
+        }
+      ]
+    }
+  },
+  "authentication": {
+    "type": "None",
+    "description": "لا تتطلب المصادقة في النسخة الحالية؛ جميع endpoints العامة متاحة دون مفتاح API",
+    "example": "No Authorization header required"
+  },
+  "rate_limiting": {
+    "default_limit": "300 requests per minute per IP",
+    "configurable": true,
+    "environment_variable": "API_RATE_LIMIT"
+  },
+  "cors": {
+    "enabled": true,
+    "description": "يدعم Cross-Origin Resource Sharing للتطبيقات الويب"
+  },
+  "error_handling": {
+    "format": {
+      "success": false,
+      "error": {
+        "code": 404,
+        "message": "Resource not found",
+        "details": "Additional error information"
+      }
+    },
+    "common_errors": [
+      {
+        "code": 400,
+        "message": "Bad Request - Invalid parameters"
+      },
+      {
+        "code": 404,
+        "message": "Not Found - Resource does not exist"
+      },
+      {
+        "code": 429,
+        "message": "Too Many Requests - Rate limit exceeded"
+      },
+      {
+        "code": 500,
+        "message": "Internal Server Error"
+      }
+    ]
+  },
+  "integration_examples": {
+    "mcp_integration": {
+      "description": "أمثلة للتكامل مع أدوات المساعدة الذكية",
+      "examples": [
+        {
+          "task": "جلب آية عشوائية",
+          "query": "أعطني آية عشوائية من القرآن",
+          "api_calls": [
+            "GET /surahs",
+            "GET /verse/{random_surah}/{random_verse}"
+          ]
+        },
+        {
+          "task": "بناء جدول حفظ",
+          "query": "ساعدني في إنشاء جدول حفظ للجزء الأول",
+          "api_calls": [
+            "GET /juz/1",
+            "GET /verses/1"
+          ]
+        },
+        {
+          "task": "تجهيز قائمة تلاوة السورة",
+          "query": "أعطني خيارات تلاوة سورة الفاتحة عبر قراء مختلفين",
+          "api_calls": [
+            "GET /audio/1",
+            "GET /reciters"
+          ]
+        }
+      ]
+    },
+    "ai_assistant_prompts": [
+      "استخدم API القرآن لمساعدة المستخدم في فهم وتعلم القرآن الكريم",
+      "عند السؤال عن آية، اجلب النص العربي والترجمة الإنجليزية",
+      "عند الحاجة إلى تلاوة آية محددة، استخدم /ayah-audio أو /ayah-bayah",
+      "ساعد في إنشاء جداول الحفظ باستخدام تقسيم الأجزاء",
+      "وفر معلومات عن مواضع السجود عند الحاجة"
+    ]
+  },
+  "best_practices": {
+    "caching": "احفظ البيانات محلياً لتقليل الطلبات المتكررة",
+    "error_handling": "تعامل مع الأخطاء بلطف وأعطِ رسائل واضحة للمستخدم",
+    "rate_limiting": "احترم حدود معدل الطلبات لضمان الخدمة للجميع",
+    "pagination": "استخدم التصفح للبيانات الكبيرة عند الإمكان",
+    "offline_support": "فكر في تحميل البيانات للاستخدام دون اتصال"
+  },
+  "version_info": {
+    "current_version": "3.1.0",
+    "release_date": "2026-08-29",
+    "changelog": [
+      "تحديث النسخة إلى 3.1.0",
+      "حذف endpoints التوقيت المعتمدة على SQLite من النسخة الفعّالة",
+      "التركيز على المسارات المدعومة في Vercel: السور، الآيات، الأجزاء، الصفحات، السجدة، الصوت، الصور، ayah-audio، ayah-bayah",
+      "تحديث /api-reference ليطابق النشاط الحقيقي للنظام",
+      "إزالة المحتوى القديم غير المدعوم من المرجع النهائي"
+    ]
+  }
+}

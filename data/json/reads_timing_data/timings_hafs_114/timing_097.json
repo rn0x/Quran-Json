@@ -1,0 +1,5528 @@
+{
+  "surah": 97,
+  "surah_padded": "097",
+  "rewaya": "حفص عن عاصم",
+  "reads_count": 96,
+  "reads": [
+    {
+      "read_id": 1,
+      "read_name": "إبراهيم الأخضر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/akdr/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=1",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 7628,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 7628,
+          "end_time": 15786,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 15786,
+          "end_time": 22155,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 22155,
+          "end_time": 28613,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 28613,
+          "end_time": 40913,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 40913,
+          "end_time": 46890,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 3,
+      "read_name": "إبراهيم العسيري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/3siri/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=3",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 540,
+          "end_time": 7080,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 7080,
+          "end_time": 12260,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 12260,
+          "end_time": 17840,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 17840,
+          "end_time": 29540,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 29540,
+          "end_time": 34200,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 4,
+      "read_name": "شيخ أبو بكر الشاطري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/shatri/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=4",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 7220,
+          "end_time": 13160,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 13160,
+          "end_time": 17940,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 17940,
+          "end_time": 22860,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 22860,
+          "end_time": 35080,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 35080,
+          "end_time": 39340,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 5,
+      "read_name": "أحمد بن علي العجمي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/ajm/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=5",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 110,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 110,
+          "end_time": 6542,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 6542,
+          "end_time": 11942,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 11942,
+          "end_time": 16842,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 16842,
+          "end_time": 28253,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 28253,
+          "end_time": 32791,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 6,
+      "read_name": "أحمد الحواشي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/hawashi/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=6",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 16960,
+          "end_time": 21220,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 21220,
+          "end_time": 24760,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 24760,
+          "end_time": 33280,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 33280,
+          "end_time": 44860,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 44860,
+          "end_time": 50540,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 8,
+      "read_name": "أحمد صابر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/saber/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=8",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5600,
+          "end_time": 12000,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 12000,
+          "end_time": 16840,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 16840,
+          "end_time": 22600,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 22600,
+          "end_time": 33800,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 33800,
+          "end_time": 38560,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 9,
+      "read_name": "أحمد نعينع",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/ahmad_nu/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=9",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 4292,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4292,
+          "end_time": 11124,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 11124,
+          "end_time": 15704,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15704,
+          "end_time": 21609,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 21609,
+          "end_time": 32653,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 32653,
+          "end_time": 37953,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 10,
+      "read_name": "أكرم العلاقمي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/akrm/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=10",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 5199,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5199,
+          "end_time": 13701,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 13701,
+          "end_time": 19161,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 19161,
+          "end_time": 25211,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 25211,
+          "end_time": 36599,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 36599,
+          "end_time": 41951,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 12,
+      "read_name": "إدريس أبكر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/abkr/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=12",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3800,
+          "end_time": 9440,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 9440,
+          "end_time": 14060,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14060,
+          "end_time": 18620,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 18620,
+          "end_time": 28160,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 28160,
+          "end_time": 32560,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 13,
+      "read_name": "الزين محمد أحمد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/alzain/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=13",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3300,
+          "end_time": 9100,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 9100,
+          "end_time": 13740,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 13740,
+          "end_time": 18040,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 18040,
+          "end_time": 27500,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 27500,
+          "end_time": 31080,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 17,
+      "read_name": "توفيق الصايغ",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/twfeeq/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=17",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3640,
+          "end_time": 9900,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 9900,
+          "end_time": 15400,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15400,
+          "end_time": 20380,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 20380,
+          "end_time": 30880,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 30880,
+          "end_time": 34320,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 20,
+      "read_name": "خالد الجليل",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/jleel/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=20",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4940,
+          "end_time": 10120,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10120,
+          "end_time": 14700,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14700,
+          "end_time": 19660,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 19660,
+          "end_time": 29040,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 29040,
+          "end_time": 33240,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 21,
+      "read_name": "خالد القحطاني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/qht/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=21",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3500,
+          "end_time": 10400,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10400,
+          "end_time": 15720,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15720,
+          "end_time": 20380,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 20380,
+          "end_time": 29660,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 29660,
+          "end_time": 33460,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 22,
+      "read_name": "خالد عبدالكافي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/kafi/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=22",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3680,
+          "end_time": 9120,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 9120,
+          "end_time": 13580,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 13580,
+          "end_time": 17880,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 17880,
+          "end_time": 26380,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 26380,
+          "end_time": 30420,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 24,
+      "read_name": "خليفة الطنيجي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/tnjy/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=24",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5900,
+          "end_time": 13500,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 13500,
+          "end_time": 19080,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 19080,
+          "end_time": 23860,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 23860,
+          "end_time": 34600,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 34600,
+          "end_time": 38660,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 25,
+      "read_name": "داود حمزة",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/hamza/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=25",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5200,
+          "end_time": 12420,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 12420,
+          "end_time": 18440,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 18440,
+          "end_time": 24040,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 24040,
+          "end_time": 35220,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 35220,
+          "end_time": 39540,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 30,
+      "read_name": "سعد الغامدي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server7.mp3quran.net/s_gmd/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=30",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5860,
+          "end_time": 12660,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 12660,
+          "end_time": 17440,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 17440,
+          "end_time": 22340,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 22340,
+          "end_time": 32140,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 32140,
+          "end_time": 36020,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 31,
+      "read_name": "سعود الشريم",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server7.mp3quran.net/shur/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=31",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 2695,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 2695,
+          "end_time": 6183,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 6183,
+          "end_time": 9068,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 9068,
+          "end_time": 12458,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 12458,
+          "end_time": 19215,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 19215,
+          "end_time": 22888,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 32,
+      "read_name": "سهل ياسين",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/shl/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=32",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 2973,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 2973,
+          "end_time": 7997,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 7997,
+          "end_time": 11769,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 11769,
+          "end_time": 16332,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 16332,
+          "end_time": 25572,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 25572,
+          "end_time": 30389,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 33,
+      "read_name": "زكي داغستاني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/zaki/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=33",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 7580,
+          "end_time": 16079,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 16079,
+          "end_time": 22780,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 22780,
+          "end_time": 29920,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 29920,
+          "end_time": 43200,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 43200,
+          "end_time": 50620,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 38,
+      "read_name": "شيرزاد عبدالرحمن طاهر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/taher/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=38",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 2380,
+          "end_time": 8660,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 8660,
+          "end_time": 14720,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14720,
+          "end_time": 19660,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 19660,
+          "end_time": 29820,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 29820,
+          "end_time": 34740,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 39,
+      "read_name": "صابر عبدالحكم",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/hkm/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=39",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 200,
+          "end_time": 7040,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 7040,
+          "end_time": 12740,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 12740,
+          "end_time": 18220,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 18220,
+          "end_time": 28740,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 28740,
+          "end_time": 33160,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 40,
+      "read_name": "صالح الصاهود",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/sahood/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=40",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4600,
+          "end_time": 11460,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 11460,
+          "end_time": 16020,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 16020,
+          "end_time": 20840,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 20840,
+          "end_time": 33600,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 33600,
+          "end_time": 38060,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 42,
+      "read_name": "صالح الهبدان",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/habdan/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=42",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4640,
+          "end_time": 10500,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10500,
+          "end_time": 15140,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15140,
+          "end_time": 19840,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 19840,
+          "end_time": 30380,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 30380,
+          "end_time": 34880,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 43,
+      "read_name": "صلاح البدير",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/s_bud/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=43",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4720,
+          "end_time": 9280,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 9280,
+          "end_time": 13080,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 13080,
+          "end_time": 18040,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 18040,
+          "end_time": 26680,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 26680,
+          "end_time": 32159,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 44,
+      "read_name": "صلاح الهاشم",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/salah_hashim_m/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=44",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4920,
+          "end_time": 10620,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10620,
+          "end_time": 15700,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15700,
+          "end_time": 20240,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 20240,
+          "end_time": 29880,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 29880,
+          "end_time": 34320,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 46,
+      "read_name": "صلاح بو خاطر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/bu_khtr/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=46",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 240,
+          "end_time": 5260,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 5260,
+          "end_time": 9320,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 9320,
+          "end_time": 19140,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 19140,
+          "end_time": 31300,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 31300,
+          "end_time": 36800,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 48,
+      "read_name": "عادل ريان",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/ryan/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=48",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3280,
+          "end_time": 8400,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 8400,
+          "end_time": 20420,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 20420,
+          "end_time": 32400,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 32400,
+          "end_time": 44220,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 44220,
+          "end_time": 49700,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 49,
+      "read_name": "عبدالبارئ الثبيتي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/thubti/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=49",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3990,
+          "end_time": 8925,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 8925,
+          "end_time": 12327,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 12327,
+          "end_time": 16779,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 16779,
+          "end_time": 25515,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 25515,
+          "end_time": 29883,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 50,
+      "read_name": "عبدالبارئ محمد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/bari/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=50",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 8280,
+          "end_time": 17340,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 17340,
+          "end_time": 24040,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 24040,
+          "end_time": 32259,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 32259,
+          "end_time": 45260,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 45260,
+          "end_time": 50740,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 53,
+      "read_name": "عبدالباسط عبدالصمد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server7.mp3quran.net/basit/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=53",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 3994,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3994,
+          "end_time": 12648,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 12648,
+          "end_time": 18503,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 18503,
+          "end_time": 24062,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 24062,
+          "end_time": 35526,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 35526,
+          "end_time": 40285,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 54,
+      "read_name": "عبدالرحمن السديس",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/sds/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=54",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 2460,
+          "end_time": 7660,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 7660,
+          "end_time": 11820,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 11820,
+          "end_time": 17400,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 17400,
+          "end_time": 27260,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 27260,
+          "end_time": 32980,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 55,
+      "read_name": "عبدالعزيز الأحمد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/a_ahmed/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=55",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 2457,
+          "end_time": 6531,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 6531,
+          "end_time": 9534,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 9534,
+          "end_time": 13314,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 13314,
+          "end_time": 23226,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 23226,
+          "end_time": 27573,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 56,
+      "read_name": "عبدالعزيز الزهراني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/zahrani/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=56",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3040,
+          "end_time": 9780,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 9780,
+          "end_time": 15200,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15200,
+          "end_time": 20140,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 20140,
+          "end_time": 30500,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 30500,
+          "end_time": 35360,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 58,
+      "read_name": "عبدالله البعيجان",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/buajan/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=58",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 10640,
+          "end_time": 18780,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 18780,
+          "end_time": 23680,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 23680,
+          "end_time": 30380,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 30380,
+          "end_time": 42180,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 42180,
+          "end_time": 48000,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 59,
+      "read_name": "عبدالله المطرود",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/mtrod/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=59",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4700,
+          "end_time": 10260,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10260,
+          "end_time": 15160,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15160,
+          "end_time": 20640,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 20640,
+          "end_time": 32259,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 32259,
+          "end_time": 39000,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 60,
+      "read_name": "عبدالله بصفر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/bsfr/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=60",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 4900,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4900,
+          "end_time": 11179,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 11179,
+          "end_time": 15759,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15759,
+          "end_time": 20929,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 20929,
+          "end_time": 31790,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 31790,
+          "end_time": 37120,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 61,
+      "read_name": "عبدالله خياط",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/kyat/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=61",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3066,
+          "end_time": 7791,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 7791,
+          "end_time": 11571,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 11571,
+          "end_time": 15687,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 15687,
+          "end_time": 22827,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 22827,
+          "end_time": 25851,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 62,
+      "read_name": "عبدالله عواد الجهني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server13.mp3quran.net/jhn/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=62",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 2658,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 2658,
+          "end_time": 7868,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 7868,
+          "end_time": 11611,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 11611,
+          "end_time": 16146,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 16146,
+          "end_time": 26419,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 26419,
+          "end_time": 30798,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 66,
+      "read_name": "عبدالمحسن الحارثي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/mohsin_harthi/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=66",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3400,
+          "end_time": 9740,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 9740,
+          "end_time": 15620,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15620,
+          "end_time": 20600,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 20600,
+          "end_time": 33240,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 33240,
+          "end_time": 37080,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 67,
+      "read_name": "عبدالمحسن القاسم",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/qasm/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=67",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 4811,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4811,
+          "end_time": 10422,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10422,
+          "end_time": 14672,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14672,
+          "end_time": 18769,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 18769,
+          "end_time": 26820,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 26820,
+          "end_time": 31033,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 69,
+      "read_name": "عبدالمحسن العبيكان",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/obk/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=69",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3760,
+          "end_time": 9560,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 9560,
+          "end_time": 13960,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 13960,
+          "end_time": 18580,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 18580,
+          "end_time": 26480,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 26480,
+          "end_time": 30620,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 70,
+      "read_name": "عبدالهادي أحمد كناكري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/kanakeri/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=70",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4940,
+          "end_time": 11040,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 11040,
+          "end_time": 16460,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 16460,
+          "end_time": 21960,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 21960,
+          "end_time": 32680,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 32680,
+          "end_time": 37420,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 71,
+      "read_name": "عبدالودود حنيف",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/wdod/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=71",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3255,
+          "end_time": 7371,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 7371,
+          "end_time": 11445,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 11445,
+          "end_time": 15183,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 15183,
+          "end_time": 22575,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 22575,
+          "end_time": 26859,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 72,
+      "read_name": "عبدالولي الأركاني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/arkani/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=72",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 6500,
+          "end_time": 11460,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 11460,
+          "end_time": 15480,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15480,
+          "end_time": 22000,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 22000,
+          "end_time": 33940,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 33940,
+          "end_time": 39000,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 74,
+      "read_name": "علي بن عبدالرحمن الحذيفي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/hthfi/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=74",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 6002,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 6002,
+          "end_time": 14391,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 14391,
+          "end_time": 20467,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 20467,
+          "end_time": 26109,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 26109,
+          "end_time": 37101,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 76,
+      "read_name": "علي جابر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/a_jbr/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=76",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4900,
+          "end_time": 10040,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10040,
+          "end_time": 14600,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14600,
+          "end_time": 19700,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 19700,
+          "end_time": 29220,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 29220,
+          "end_time": 33480,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 77,
+      "read_name": "علي حجاج السويسي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/hajjaj/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=77",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 3932,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3932,
+          "end_time": 10363,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10363,
+          "end_time": 15260,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15260,
+          "end_time": 21117,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 21117,
+          "end_time": 32534,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 32534,
+          "end_time": 37262,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 78,
+      "read_name": "عماد زهير حافظ",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/hafz/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=78",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 7983,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 7983,
+          "end_time": 14534,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 14534,
+          "end_time": 19513,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 19513,
+          "end_time": 25294,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 25294,
+          "end_time": 36947,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 36947,
+          "end_time": 42736,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 81,
+      "read_name": "فارس عباد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/frs_a/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=81",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4840,
+          "end_time": 10820,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10820,
+          "end_time": 16239,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 16239,
+          "end_time": 21160,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 21160,
+          "end_time": 31000,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 31000,
+          "end_time": 35160,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 86,
+      "read_name": "ناصر القطامي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/qtm/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=86",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 300,
+          "end_time": 10880,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10880,
+          "end_time": 17460,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 17460,
+          "end_time": 29060,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 29060,
+          "end_time": 41120,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 41120,
+          "end_time": 51640,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 87,
+      "read_name": "نبيل الرفاعي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/nabil/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=87",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3360,
+          "end_time": 9340,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 9340,
+          "end_time": 14160,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14160,
+          "end_time": 19300,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 19300,
+          "end_time": 32479,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 32479,
+          "end_time": 36740,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 88,
+      "read_name": "نعمة الحسان",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/namh/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=88",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 6700,
+          "end_time": 13400,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 13400,
+          "end_time": 20620,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 20620,
+          "end_time": 25720,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 25720,
+          "end_time": 35800,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 35800,
+          "end_time": 40060,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 89,
+      "read_name": "هاني الرفاعي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/hani/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=89",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5120,
+          "end_time": 10800,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10800,
+          "end_time": 14860,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14860,
+          "end_time": 19320,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 19320,
+          "end_time": 29580,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 29580,
+          "end_time": 33700,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 92,
+      "read_name": "ياسر الدوسري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/yasser/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=92",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 120,
+          "end_time": 7240,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 7240,
+          "end_time": 12920,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 12920,
+          "end_time": 17520,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 17520,
+          "end_time": 33020,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 33020,
+          "end_time": 35760,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 106,
+      "read_name": "محمد الطبلاوي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/tblawi/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=106",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 6814,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 6814,
+          "end_time": 18308,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 18308,
+          "end_time": 27049,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 27049,
+          "end_time": 35506,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 35506,
+          "end_time": 50898,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 50898,
+          "end_time": 58530,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 109,
+      "read_name": "محمد أيوب",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/ayyub/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=109",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 9620,
+          "end_time": 17640,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 17640,
+          "end_time": 24040,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 24040,
+          "end_time": 30280,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 30280,
+          "end_time": 43140,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 43140,
+          "end_time": 47860,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 110,
+      "read_name": "محمد صالح عالم شاه",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/shah/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=110",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3700,
+          "end_time": 8540,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 8540,
+          "end_time": 12960,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 12960,
+          "end_time": 18300,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 18300,
+          "end_time": 31340,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 31340,
+          "end_time": 36720,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 112,
+      "read_name": "محمد صديق المنشاوي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/minsh/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=112",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 5383,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5383,
+          "end_time": 14757,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 14757,
+          "end_time": 21882,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 21882,
+          "end_time": 28693,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 28693,
+          "end_time": 42193,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 42193,
+          "end_time": 48383,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 115,
+      "read_name": "محمد عبدالكريم",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/m_krm/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=115",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3240,
+          "end_time": 9740,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 9740,
+          "end_time": 14600,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14600,
+          "end_time": 19420,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 19420,
+          "end_time": 31880,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 31880,
+          "end_time": 36140,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 118,
+      "read_name": "محمود خليل الحصري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server13.mp3quran.net/husr/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=118",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 7166,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 7166,
+          "end_time": 19023,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 19023,
+          "end_time": 28298,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 28298,
+          "end_time": 38053,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 38053,
+          "end_time": 55354,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 55354,
+          "end_time": 62864,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 123,
+      "read_name": "مشاري العفاسي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/afs/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=123",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 7020,
+          "end_time": 14960,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 14960,
+          "end_time": 21120,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 21120,
+          "end_time": 27020,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 27020,
+          "end_time": 38880,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 38880,
+          "end_time": 43440,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 139,
+      "read_name": "ماجد الزامل",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/zaml/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=139",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 1380,
+          "end_time": 6780,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 6780,
+          "end_time": 12600,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 12600,
+          "end_time": 17180,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 17180,
+          "end_time": 25940,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 25940,
+          "end_time": 30060,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 159,
+      "read_name": "خالد المهنا",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/mohna/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=159",
+      "ayat_count": 6,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 7975,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 7975,
+          "end_time": 15039,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 15039,
+          "end_time": 20021,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 20021,
+          "end_time": 26072,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 26072,
+          "end_time": 38583,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 38583,
+          "end_time": 43966,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 181,
+      "read_name": "جمعان العصيمي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/jaman/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=181",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 11160,
+          "end_time": 16860,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 16860,
+          "end_time": 20740,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 20740,
+          "end_time": 26040,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 26040,
+          "end_time": 35780,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 35780,
+          "end_time": 40240,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 193,
+      "read_name": "يوسف بن نوح أحمد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/noah/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=193",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4960,
+          "end_time": 10780,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10780,
+          "end_time": 15640,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15640,
+          "end_time": 20360,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 20360,
+          "end_time": 30140,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 30140,
+          "end_time": 34400,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 198,
+      "read_name": "محمد رشاد الشريف",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/rashad/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=198",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4720,
+          "end_time": 12100,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 12100,
+          "end_time": 19500,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 19500,
+          "end_time": 27120,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 27120,
+          "end_time": 42400,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 42400,
+          "end_time": 49100,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 201,
+      "read_name": "أحمد الطرابلسي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/trabulsi/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=201",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5000,
+          "end_time": 12080,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 12080,
+          "end_time": 17820,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 17820,
+          "end_time": 23440,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 23440,
+          "end_time": 35020,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 35020,
+          "end_time": 39880,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 203,
+      "read_name": "أحمد عامر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/Aamer/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=203",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 7180,
+          "end_time": 12420,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 12420,
+          "end_time": 16780,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 16780,
+          "end_time": 21940,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 21940,
+          "end_time": 32259,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 32259,
+          "end_time": 36440,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 217,
+      "read_name": "بندر بليله",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/balilah/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=217",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4080,
+          "end_time": 11700,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 11700,
+          "end_time": 18460,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 18460,
+          "end_time": 24880,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 24880,
+          "end_time": 40540,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 40540,
+          "end_time": 45800,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 219,
+      "read_name": "وديع اليمني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/wdee3/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=219",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4160,
+          "end_time": 11400,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 11400,
+          "end_time": 17500,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 17500,
+          "end_time": 23100,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 23100,
+          "end_time": 34860,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 34860,
+          "end_time": 39760,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 221,
+      "read_name": "رعد محمد الكردي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/kurdi/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=221",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4300,
+          "end_time": 12380,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 12380,
+          "end_time": 19140,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 19140,
+          "end_time": 26680,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 26680,
+          "end_time": 43460,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 43460,
+          "end_time": 51920,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 225,
+      "read_name": "عبدالرحمن العوسي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/aloosi/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=225",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3980,
+          "end_time": 11100,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 11100,
+          "end_time": 17280,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 17280,
+          "end_time": 22840,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 22840,
+          "end_time": 34200,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 34200,
+          "end_time": 39140,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 229,
+      "read_name": "محمد خليل القارئ",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/m_qari/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=229",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 7040,
+          "end_time": 13640,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 13640,
+          "end_time": 18420,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 18420,
+          "end_time": 23420,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 23420,
+          "end_time": 31260,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 31260,
+          "end_time": 34620,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 232,
+      "read_name": "إبراهيم الدوسري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=232",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 12720,
+          "end_time": 20180,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 20180,
+          "end_time": 26540,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 26540,
+          "end_time": 32420,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 32420,
+          "end_time": 44120,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 44120,
+          "end_time": 49000,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 236,
+      "read_name": "عبدالرحمن الماجد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/a_majed/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=236",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4480,
+          "end_time": 10140,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10140,
+          "end_time": 14380,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14380,
+          "end_time": 19860,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 19860,
+          "end_time": 30360,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 30360,
+          "end_time": 34940,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 243,
+      "read_name": "عبدالله الموسى",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server14.mp3quran.net/mousa/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=243",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4420,
+          "end_time": 10300,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10300,
+          "end_time": 15900,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15900,
+          "end_time": 21280,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 21280,
+          "end_time": 43660,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 43660,
+          "end_time": 48680,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 244,
+      "read_name": "عبدالله الخلف",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server14.mp3quran.net/khalf/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=244",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 11360,
+          "end_time": 17960,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 17960,
+          "end_time": 22540,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 22540,
+          "end_time": 28540,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 28540,
+          "end_time": 41800,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 41800,
+          "end_time": 48540,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 245,
+      "read_name": "منصور السالمي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server14.mp3quran.net/mansor/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=245",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5000,
+          "end_time": 12920,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 12920,
+          "end_time": 18420,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 18420,
+          "end_time": 23960,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 23960,
+          "end_time": 35340,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 35340,
+          "end_time": 39460,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 250,
+      "read_name": "محمد البخيت",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server14.mp3quran.net/bukheet/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=250",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5940,
+          "end_time": 12060,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 12060,
+          "end_time": 16940,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 16940,
+          "end_time": 23020,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 23020,
+          "end_time": 35300,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 35300,
+          "end_time": 39800,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 256,
+      "read_name": "أحمد خليل شاهين",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/shaheen/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=256",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5260,
+          "end_time": 12300,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 12300,
+          "end_time": 17740,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 17740,
+          "end_time": 24380,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 24380,
+          "end_time": 37900,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 37900,
+          "end_time": 42900,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 258,
+      "read_name": "عبدالرشيد صوفي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/soufi/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=258",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3980,
+          "end_time": 9760,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 9760,
+          "end_time": 14460,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14460,
+          "end_time": 19500,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 19500,
+          "end_time": 29460,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 29460,
+          "end_time": 33860,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 259,
+      "read_name": "أحمد النفيس",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=259",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4000,
+          "end_time": 10720,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10720,
+          "end_time": 15560,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 15560,
+          "end_time": 21900,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 21900,
+          "end_time": 35300,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 35300,
+          "end_time": 39940,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 265,
+      "read_name": "أحمد ديبان",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=265",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3740,
+          "end_time": 8700,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 8700,
+          "end_time": 13000,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 13000,
+          "end_time": 18140,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 18140,
+          "end_time": 29320,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 29320,
+          "end_time": 34700,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 268,
+      "read_name": "بيشه وا قادر الكردي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=268",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5740,
+          "end_time": 12080,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 12080,
+          "end_time": 17100,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 17100,
+          "end_time": 22060,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 22060,
+          "end_time": 35480,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 35480,
+          "end_time": 41240,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 273,
+      "read_name": "هيثم الدخين",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/h_dukhain/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=273",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3980,
+          "end_time": 11940,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 11940,
+          "end_time": 18080,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 18080,
+          "end_time": 23640,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 23640,
+          "end_time": 40580,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 40580,
+          "end_time": 46740,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 282,
+      "read_name": "عبدالعزيز التركي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/a_turki/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=282",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4040,
+          "end_time": 10620,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10620,
+          "end_time": 14560,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14560,
+          "end_time": 19820,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 19820,
+          "end_time": 29820,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 29820,
+          "end_time": 34400,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 289,
+      "read_name": "أحمد عيسى المعصراوي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/a_maasaraawi/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=289",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3940,
+          "end_time": 11120,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 11120,
+          "end_time": 16260,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 16260,
+          "end_time": 21380,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 21380,
+          "end_time": 31500,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 31500,
+          "end_time": 36040,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 294,
+      "read_name": "سيد أحمد هاشمي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/s_hashemi/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=294",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 9660,
+          "end_time": 16880,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 16880,
+          "end_time": 22260,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 22260,
+          "end_time": 27520,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 27520,
+          "end_time": 38420,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 38420,
+          "end_time": 42640,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 295,
+      "read_name": "خالد كريم محمدي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/kh_mohammadi/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=295",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 8380,
+          "end_time": 17100,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 17100,
+          "end_time": 22760,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 22760,
+          "end_time": 28300,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 28300,
+          "end_time": 39580,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 39580,
+          "end_time": 44120,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 299,
+      "read_name": "حسن صالح",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/h_saleh/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=299",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 3980,
+          "end_time": 9580,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 9580,
+          "end_time": 14260,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14260,
+          "end_time": 18860,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 18860,
+          "end_time": 28160,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 28160,
+          "end_time": 31760,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 300,
+      "read_name": "صالح الشمراني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/shamrani/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=300",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5040,
+          "end_time": 10100,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10100,
+          "end_time": 14340,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14340,
+          "end_time": 19340,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 19340,
+          "end_time": 29380,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 29380,
+          "end_time": 33680,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 303,
+      "read_name": "عيسى عمر سناكو",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=303",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5960,
+          "end_time": 12940,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 12940,
+          "end_time": 18280,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 18280,
+          "end_time": 23740,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 23740,
+          "end_time": 34320,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 34320,
+          "end_time": 39300,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 314,
+      "read_name": "أنس العمادي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/a_alemadi/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=314",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 4540,
+          "end_time": 10280,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10280,
+          "end_time": 14020,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14020,
+          "end_time": 18920,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 18920,
+          "end_time": 28320,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 28320,
+          "end_time": 32380,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 340,
+      "read_name": "محمد برهجي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/M_Burhaji/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=340",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 5200,
+          "end_time": 10620,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 10620,
+          "end_time": 14680,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 14680,
+          "end_time": 19800,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 19800,
+          "end_time": 30120,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 30120,
+          "end_time": 34600,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 10905,
+      "read_name": "حسن الدغريري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/H-Aldaghriri/Rewayat-Hafs-A-n-Assem/",
+      "surah": 97,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=97&read=10905",
+      "ayat_count": 5,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,189.06 183.71,189.06 183.71,225.06 343,225.06 343,189.06",
+          "start_time": 9800,
+          "end_time": 15240,
+          "x": "193.71",
+          "y": "207.72",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "183.71,189.72 0,189.72 0,225.72 183.71,225.72 183.71,189.72",
+          "start_time": 15240,
+          "end_time": 19240,
+          "x": "16.07",
+          "y": "207.70",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "0,189.7 0,189.7 0,225.61 153.43,225.61 153.43,261.61 343,261.61 343,225.7 0,225.7 0,189.7",
+          "start_time": 19240,
+          "end_time": 24380,
+          "x": "163.43",
+          "y": "243.61",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 4,
+          "polygon": "153.43,225.61 0,225.61 0,261.43 186.33,261.43 186.33,297.43 343,297.43 343,261.61 153.43,261.61 153.43,225.61",
+          "start_time": 24380,
+          "end_time": 34180,
+          "x": "196.33",
+          "y": "279.43",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        },
+        {
+          "ayah": 5,
+          "polygon": "186.33,261.43 0,261.43 0,297.43 186.33,297.43 186.33,261.43",
+          "start_time": 34180,
+          "end_time": 38580,
+          "x": "16.07",
+          "y": "278.77",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/598.svg"
+        }
+      ]
+    }
+  ]
+}

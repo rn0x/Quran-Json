@@ -1,23 +1,42 @@
 {
   "name": "quran-data",
   "description": "مشروع Quran Data يوفر واجهة برمجة تطبيقات للوصول إلى بيانات القرآن الكريم وتنظيمها بشكل مرن وشامل",
-  "version": "2.1.0",
+  "version": "3.1.0",
+  "type": "module",
+  "packageManager": "pnpm@9.15.9",
   "main": "server/server.mjs",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
+    "build": "echo 'Build completed successfully'",
     "start": "node server/server.mjs",
     "dev": "nodemon",
-    "splitData": "node scripts/splitData.js",
-    "jsonToSqlite": "node scripts/jsonToSqlite.mjs",
-    "jsonToCsv": "node scripts/jsonToCsv.mjs"
+    "splitData": "node scripts/splitData.mjs",
+    "data:build": "node scripts/buildData.mjs --formats=all",
+    "data:json": "node scripts/buildData.mjs --formats=json",
+    "data:csv": "node scripts/buildData.mjs --formats=csv",
+    "data:sqlite": "node scripts/buildData.mjs --formats=sqlite",
+    "data:rebuild": "node scripts/rebuildData.mjs",
+    "data:verify": "node scripts/verifyDataPipeline.mjs",
+    "data:clean": "node scripts/cleanGeneratedData.mjs",
+    "jsonToSqlite": "pnpm run data:sqlite",
+    "jsonToCsv": "pnpm run data:csv",
+    "addTimingToSqlite": "node scripts/addTimingToSqlite.mjs",
+    "addApiReferenceToSqlite": "node scripts/addApiReferenceToSqlite.mjs",
+    "addJsonToSqlite": "node scripts/addJsonToSqlite.mjs",
+    "setup:db": "pnpm run data:sqlite",
+    "setup:db:full": "pnpm run data:sqlite",
+    "export:data": "pnpm run splitData && pnpm run data:json && pnpm run data:csv",
+    "verify:data": "pnpm run data:verify",
+    "test:reciters": "node scripts/testReciterData.mjs",
+    "test:reader": "node scripts/testReaderSite.mjs"
   },
   "keywords": [],
   "author": {
-    "name": "Ryan Almalki",
-    "email": "rn0x.me@gmail.com",
-    "url": "https://github.com/rn0x/quran-data"
+    "name": "mohamed alromaihi",
+    "email": "alromaihi2224@gmail.com",
+    "url": "https://github.com/msr7799/quran-data"
   },
   "license": "MIT",
   "dependencies": {
@@ -26,10 +45,13 @@
     "express": "^4.19.2",
     "express-rate-limit": "^7.4.0",
     "fs-extra": "^11.2.0",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": "22.x",
+    "npm": ">=8.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"

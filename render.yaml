@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: quran-api
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: API_RATE_LIMIT
+        value: 200

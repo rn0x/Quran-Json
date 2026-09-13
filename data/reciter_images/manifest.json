@@ -1,0 +1,1582 @@
+[
+  {
+    "id": 1,
+    "name": "أحمد الحواشي",
+    "status": "downloaded",
+    "file": "001-أحمد الحواشي.jpg",
+    "matched_name": "أحمد الحواشي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B4%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/2/profile"
+  },
+  {
+    "id": 2,
+    "name": "أحمد السويلم",
+    "status": "downloaded",
+    "file": "002-أحمد السويلم.jpg",
+    "matched_name": "أحمد السويلم",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/author_default.png",
+    "source_page": "https://www.tvquran.com/ar/scholar/263/profile"
+  },
+  {
+    "id": 3,
+    "name": "أحمد الطرابلسي",
+    "status": "downloaded",
+    "file": "003-أحمد الطرابلسي.jpg",
+    "matched_name": "أحمد الطرابلسي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%AE%D8%B6%D8%B1%20%D8%A7%D9%84%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/4/profile"
+  },
+  {
+    "id": 4,
+    "name": "أحمد بن علي العجمي",
+    "status": "downloaded",
+    "file": "004-أحمد بن علي العجمي.jpg",
+    "matched_name": "أحمد بن علي العجمي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D8%B9%D8%AC%D9%85%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/3/profile"
+  },
+  {
+    "id": 5,
+    "name": "أحمد خضر الطرابلسي",
+    "status": "downloaded",
+    "file": "005-أحمد خضر الطرابلسي.jpg",
+    "matched_name": "أحمد خضر الطرابلسي",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/2.png",
+    "source_page": "https://surahquran.com/sheikh-qari-2.html"
+  },
+  {
+    "id": 6,
+    "name": "أحمد خليل شاهين",
+    "status": "downloaded",
+    "file": "006-أحمد خليل شاهين.jpg",
+    "matched_name": "أحمد خليل شاهين",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/4.png",
+    "source_page": "https://surahquran.com/sheikh-qari-4.html"
+  },
+  {
+    "id": 7,
+    "name": "أحمد ديبان",
+    "status": "downloaded",
+    "file": "007-أحمد ديبان.jpg",
+    "matched_name": "أحمد ديبان",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/1.png",
+    "source_page": "https://surahquran.com/sheikh-qari-1.html"
+  },
+  {
+    "id": 8,
+    "name": "أحمد ديبان",
+    "status": "downloaded",
+    "file": "008-أحمد ديبان.jpg",
+    "matched_name": "أحمد ديبان",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/ahmed-diban.jpg?v=1777518429553",
+    "source_page": "https://way2quran.com/ar/reciters/ahmed-diban"
+  },
+  {
+    "id": 9,
+    "name": "أحمد ديبان",
+    "status": "downloaded",
+    "file": "009-أحمد ديبان.jpg",
+    "matched_name": "أحمد ديبان",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/ahmed-diban.jpg?v=1777518429553",
+    "source_page": "https://way2quran.com/ar/reciters/ahmed-diban"
+  },
+  {
+    "id": 10,
+    "name": "أحمد ديبان",
+    "status": "downloaded",
+    "file": "010-أحمد ديبان.jpg",
+    "matched_name": "أحمد ديبان",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/ahmed-diban.jpg?v=1777518429553",
+    "source_page": "https://way2quran.com/ar/reciters/ahmed-diban"
+  },
+  {
+    "id": 11,
+    "name": "أحمد ديبان",
+    "status": "downloaded",
+    "file": "011-أحمد ديبان.jpg",
+    "matched_name": "أحمد ديبان",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/ahmed-diban.jpg?v=1777518429553",
+    "source_page": "https://way2quran.com/ar/reciters/ahmed-diban"
+  },
+  {
+    "id": 12,
+    "name": "أحمد ديبان",
+    "status": "downloaded",
+    "file": "012-أحمد ديبان.jpg",
+    "matched_name": "أحمد ديبان",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/ahmed-diban.jpg?v=1777518429553",
+    "source_page": "https://way2quran.com/ar/reciters/ahmed-diban"
+  },
+  {
+    "id": 13,
+    "name": "أحمد صابر",
+    "status": "downloaded",
+    "file": "013-أحمد صابر.jpg",
+    "matched_name": "أحمد صابر",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%B5%D8%A7%D8%A8%D8%B1.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/191/profile"
+  },
+  {
+    "id": 14,
+    "name": "أحمد عامر",
+    "status": "downloaded",
+    "file": "014-أحمد عامر.jpg",
+    "matched_name": "أحمد عامر",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/ahmed-amer.jpg?v=1782709547123",
+    "source_page": "https://way2quran.com/ar/reciters/ahmed-amer"
+  },
+  {
+    "id": 15,
+    "name": "أحمد عيسى المعصراوي",
+    "status": "downloaded",
+    "file": "015-أحمد عيسى المعصراوي.jpg",
+    "matched_name": "أحمد عيسى المعصراوي",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/5.png",
+    "source_page": "https://surahquran.com/sheikh-qari-5.html"
+  },
+  {
+    "id": 16,
+    "name": "أحمد نعينع",
+    "status": "downloaded",
+    "file": "016-أحمد نعينع.jpg",
+    "matched_name": "أحمد نعينع",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%A3%D8%AD%D9%85%D8%AF%20%D9%86%D8%B9%D9%8A%D9%86%D8%B9.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/5/profile"
+  },
+  {
+    "id": 17,
+    "name": "أكرم العلاقمي",
+    "status": "downloaded",
+    "file": "017-أكرم العلاقمي.jpg",
+    "matched_name": "أكرم العلاقمي",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/15.png",
+    "source_page": "https://surahquran.com/sheikh-qari-15.html"
+  },
+  {
+    "id": 18,
+    "name": "إبراهيم الأخضر",
+    "status": "downloaded",
+    "file": "018-إبراهيم الأخضر.jpg",
+    "matched_name": "إبراهيم الأخضر",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/7/profile"
+  },
+  {
+    "id": 19,
+    "name": "إبراهيم الجرمي",
+    "status": "downloaded",
+    "file": "019-إبراهيم الجرمي.jpg",
+    "matched_name": "إبراهيم الجرمي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%A7%D9%84%D8%AC%D8%B1%D9%85%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/237/profile"
+  },
+  {
+    "id": 20,
+    "name": "إبراهيم الدوسري",
+    "status": "downloaded",
+    "file": "020-إبراهيم الدوسري.jpg",
+    "matched_name": "إبراهيم الدوسري",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/204/profile"
+  },
+  {
+    "id": 21,
+    "name": "إبراهيم الدوسري",
+    "status": "downloaded",
+    "file": "021-إبراهيم الدوسري.png",
+    "matched_name": "إبراهيم الدوسري",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/ibrahim-al-dosari.png",
+    "source_page": "https://way2quran.com/ar/reciters/ibrahim-al-dosari"
+  },
+  {
+    "id": 22,
+    "name": "إبراهيم كشيدان",
+    "status": "downloaded",
+    "file": "022-إبراهيم كشيدان.jpg",
+    "matched_name": "إبراهيم كشيدان",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/ibrahim-muhammad-kashidan.png",
+    "source_page": "https://way2quran.com/ar/reciters/ibrahim-muhammad-kashidan"
+  },
+  {
+    "id": 23,
+    "name": "الدوكالي محمد العالم",
+    "status": "downloaded",
+    "file": "023-الدوكالي محمد العالم.jpg",
+    "matched_name": "الدوكالي محمد العالم",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/41.png",
+    "source_page": "https://surahquran.com/sheikh-qari-41.html"
+  },
+  {
+    "id": 24,
+    "name": "الزين محمد أحمد",
+    "status": "downloaded",
+    "file": "024-الزين محمد أحمد.jpg",
+    "matched_name": "الزين محمد أحمد",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/43.png",
+    "source_page": "https://surahquran.com/sheikh-qari-43.html"
+  },
+  {
+    "id": 25,
+    "name": "العيون الكوشي",
+    "status": "downloaded",
+    "file": "025-العيون الكوشي.jpg",
+    "matched_name": "العيون الكوشي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86%20%D8%A7%D9%84%D9%83%D9%88%D8%B4%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/13/profile"
+  },
+  {
+    "id": 26,
+    "name": "الفاتح محمد الزبير",
+    "status": "downloaded",
+    "file": "026-الفاتح محمد الزبير.jpg",
+    "matched_name": "الفاتح محمد الزبير",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/96.png",
+    "source_page": "https://surahquran.com/sheikh-qari-96.html"
+  },
+  {
+    "id": 27,
+    "name": "القارئ ياسين",
+    "status": "downloaded",
+    "file": "027-القارئ ياسين.jpeg",
+    "matched_name": "القارئ ياسين",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/yassin-al-jazairi.jpeg",
+    "source_page": "https://way2quran.com/ar/reciters/yassin-al-jazairi"
+  },
+  {
+    "id": 28,
+    "name": "بدر التركي",
+    "status": "downloaded",
+    "file": "028-بدر التركي.jpeg",
+    "matched_name": "بدر التركي",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/badr-al-turki.jpg?v=1780248824304",
+    "source_page": "https://way2quran.com/ar/reciters/badr-al-turki"
+  },
+  {
+    "id": 29,
+    "name": "بندر بليله",
+    "status": "downloaded",
+    "file": "029-بندر بليله.jpg",
+    "matched_name": "بندر بليله",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%A8%D9%86%D8%AF%D8%B1%20%D8%A8%D9%84%D9%8A%D9%84%D9%87.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/220/profile"
+  },
+  {
+    "id": 30,
+    "name": "بيشه وا قادر الكردي",
+    "status": "downloaded",
+    "file": "030-بيشه وا قادر الكردي.jpg",
+    "matched_name": "بيشه وا قادر الكردي",
+    "match_score": 1,
+    "image_url": "https://i1.sndcdn.com/artworks-000720235549-eq1mwh-t500x500.jpg",
+    "source_page": "https://soundcloud.com/eman-abdullah-727792561/bju2iesvl9fw"
+  },
+  {
+    "id": 31,
+    "name": "توفيق الصايغ",
+    "status": "downloaded",
+    "file": "031-توفيق الصايغ.jpg",
+    "matched_name": "توفيق الصايغ",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/25.png",
+    "source_page": "https://surahquran.com/sheikh-qari-25.html"
+  },
+  {
+    "id": 32,
+    "name": "جمال شاكر عبدالله",
+    "status": "downloaded",
+    "file": "032-جمال شاكر عبدالله.jpg",
+    "matched_name": "جمال شاكر عبدالله",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%AC%D9%85%D8%A7%D9%84%20%D8%B4%D8%A7%D9%83%D8%B1%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/17/profile"
+  },
+  {
+    "id": 33,
+    "name": "جمعان العصيمي",
+    "status": "downloaded",
+    "file": "033-جمعان العصيمي.jpg",
+    "matched_name": "جمعان العصيمي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%AC%D9%85%D8%B9%D8%A7%D9%86%20%D8%A7%D9%84%D8%B9%D8%B5%D9%8A%D9%85%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/205/profile"
+  },
+  {
+    "id": 34,
+    "name": "حاتم فريد الواعر",
+    "status": "downloaded",
+    "file": "034-حاتم فريد الواعر.jpg",
+    "matched_name": "حاتم فريد الواعر",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/29.png",
+    "source_page": "https://surahquran.com/sheikh-qari-29.html"
+  },
+  {
+    "id": 35,
+    "name": "خالد الجليل",
+    "status": "downloaded",
+    "file": "035-خالد الجليل.jpg",
+    "matched_name": "خالد الجليل",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%AE%D8%A7%D9%84%D8%AF%20%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D9%84.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/21/profile"
+  },
+  {
+    "id": 36,
+    "name": "خالد القحطاني",
+    "status": "downloaded",
+    "file": "036-خالد القحطاني.jpg",
+    "matched_name": "خالد القحطاني",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/36.png",
+    "source_page": "https://surahquran.com/sheikh-qari-36.html"
+  },
+  {
+    "id": 37,
+    "name": "خالد المهنا",
+    "status": "downloaded",
+    "file": "037-خالد المهنا.jpg",
+    "matched_name": "خالد المهنا",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/38.png",
+    "source_page": "https://surahquran.com/sheikh-qari-38.html"
+  },
+  {
+    "id": 38,
+    "name": "خالد عبدالكافي",
+    "status": "downloaded",
+    "file": "038-خالد عبدالكافي.jpg",
+    "matched_name": "خالد عبدالكافي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%AE%D8%A7%D9%84%D8%AF%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%83%D8%A7%D9%81%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/23/profile"
+  },
+  {
+    "id": 39,
+    "name": "خالد كريم محمدي",
+    "status": "downloaded",
+    "file": "039-خالد كريم محمدي.jpg",
+    "matched_name": "خالد كريم محمدي",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/khaled-karim-mohammadi.jpg?v=1778206307835",
+    "source_page": "https://way2quran.com/ar/reciters/khaled-karim-mohammadi"
+  },
+  {
+    "id": 40,
+    "name": "خليفة الطنيجي",
+    "status": "downloaded",
+    "file": "040-خليفة الطنيجي.jpg",
+    "matched_name": "خليفة الطنيجي",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/39.png",
+    "source_page": "https://surahquran.com/sheikh-qari-39.html"
+  },
+  {
+    "id": 41,
+    "name": "رامي الدعيس",
+    "status": "downloaded",
+    "file": "041-رامي الدعيس.jpg",
+    "matched_name": "رامي الدعيس",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/author_default.png",
+    "source_page": "https://www.tvquran.com/ar/scholar/248/profile"
+  },
+  {
+    "id": 42,
+    "name": "رشيد بلعالية",
+    "status": "downloaded",
+    "file": "042-رشيد بلعالية.jpg",
+    "matched_name": "رشيد بلعالية",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/50.png",
+    "source_page": "https://surahquran.com/sheikh-qari-50.html"
+  },
+  {
+    "id": 43,
+    "name": "زكي داغستاني",
+    "status": "downloaded",
+    "file": "043-زكي داغستاني.jpg",
+    "matched_name": "زكي داغستاني",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/42.png",
+    "source_page": "https://surahquran.com/sheikh-qari-42.html"
+  },
+  {
+    "id": 44,
+    "name": "سعد الغامدي",
+    "status": "downloaded",
+    "file": "044-سعد الغامدي.jpg",
+    "matched_name": "سعد الغامدي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B3%D8%B9%D8%AF%20%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/27/profile"
+  },
+  {
+    "id": 45,
+    "name": "سعد المقرن",
+    "status": "downloaded",
+    "file": "045-سعد المقرن.jpg",
+    "matched_name": "سعد المقرن",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/saad-almqren.jpg",
+    "source_page": "https://way2quran.com/ar/reciters/saad-almqren"
+  },
+  {
+    "id": 46,
+    "name": "سعود الشريم",
+    "status": "downloaded",
+    "file": "046-سعود الشريم.jpg",
+    "matched_name": "سعود الشريم",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B3%D8%B9%D9%88%D8%AF%20%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%85.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/28/profile"
+  },
+  {
+    "id": 47,
+    "name": "سلمان الصديق",
+    "status": "downloaded",
+    "file": "047-سلمان الصديق.jpg",
+    "matched_name": "سلمان الصديق",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/salman-al-siddiq.jpg?v=1784201414092",
+    "source_page": "https://way2quran.com/ar/reciters/salman-al-siddiq"
+  },
+  {
+    "id": 48,
+    "name": "سهل ياسين",
+    "status": "downloaded",
+    "file": "048-سهل ياسين.jpg",
+    "matched_name": "سهل ياسين",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/52.png",
+    "source_page": "https://surahquran.com/sheikh-qari-52.html"
+  },
+  {
+    "id": 49,
+    "name": "سيد أحمد هاشمي",
+    "status": "downloaded",
+    "file": "049-سيد أحمد هاشمي.jpg",
+    "matched_name": "سيد أحمد هاشمي",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/social-media-logo.jpg",
+    "source_page": "https://way2quran.com/ar/reciters/sayed-ahmed-hashimi"
+  },
+  {
+    "id": 50,
+    "name": "سيد رمضان",
+    "status": "downloaded",
+    "file": "050-سيد رمضان.jpg",
+    "matched_name": "سيد رمضان",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B3%D9%8A%D8%AF%20%D8%B1%D9%85%D8%B6%D8%A7%D9%86.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/209/profile"
+  },
+  {
+    "id": 51,
+    "name": "شيخ أبو بكر الشاطري",
+    "status": "downloaded",
+    "file": "051-شيخ أبو بكر الشاطري.jpg",
+    "matched_name": "شيخ أبو بكر الشاطري",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B4%D9%8A%D8%AE%20%D8%A3%D8%A8%D9%88%20%D8%A8%D9%83%D8%B1%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B7%D8%B1%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/32/profile"
+  },
+  {
+    "id": 52,
+    "name": "شيرزاد عبدالرحمن طاهر",
+    "status": "downloaded",
+    "file": "052-شيرزاد عبدالرحمن طاهر.jpg",
+    "matched_name": "شيرزاد عبدالرحمن طاهر",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B4%D9%8A%D8%B1%D8%B2%D8%A7%D8%AF%20%D8%B7%D8%A7%D9%87%D8%B1.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/33/profile"
+  },
+  {
+    "id": 53,
+    "name": "صابر عبدالحكم",
+    "status": "downloaded",
+    "file": "053-صابر عبدالحكم.jpg",
+    "matched_name": "صابر عبدالحكم",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B5%D8%A7%D8%A8%D8%B1%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%AD%D9%83%D9%85.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/207/profile"
+  },
+  {
+    "id": 54,
+    "name": "صالح الشمراني",
+    "status": "downloaded",
+    "file": "054-صالح الشمراني.jpg",
+    "matched_name": "صالح الشمراني",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/saleh-alshamrani.jpg?v=1778163653389",
+    "source_page": "https://way2quran.com/ar/reciters/saleh-alshamrani"
+  },
+  {
+    "id": 55,
+    "name": "صالح الهبدان",
+    "status": "downloaded",
+    "file": "055-صالح الهبدان.jpg",
+    "matched_name": "صالح الهبدان",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B5%D8%A7%D9%84%D8%AD%20%D8%A7%D9%84%D9%87%D8%A8%D8%AF%D8%A7%D9%86.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/272/profile"
+  },
+  {
+    "id": 56,
+    "name": "صلاح البدير",
+    "status": "downloaded",
+    "file": "056-صلاح البدير.jpg",
+    "matched_name": "صلاح البدير",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/55.png",
+    "source_page": "https://surahquran.com/sheikh-qari-55.html"
+  },
+  {
+    "id": 57,
+    "name": "صلاح الهاشم",
+    "status": "downloaded",
+    "file": "057-صلاح الهاشم.jpg",
+    "matched_name": "صلاح الهاشم",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/57.png",
+    "source_page": "https://surahquran.com/sheikh-qari-57.html"
+  },
+  {
+    "id": 58,
+    "name": "صلاح بو خاطر",
+    "status": "downloaded",
+    "file": "058-صلاح بو خاطر.jpg",
+    "matched_name": "صلاح بو خاطر",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B5%D9%84%D8%A7%D8%AD%20%D8%A8%D9%88%20%D8%AE%D8%A7%D8%B7%D8%B1.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/37/profile"
+  },
+  {
+    "id": 59,
+    "name": "طارق عبدالغني دعوب",
+    "status": "downloaded",
+    "file": "059-طارق عبدالغني دعوب.jpg",
+    "matched_name": "طارق عبدالغني دعوب",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/tariq-daoub.jpg?v=1782712400014",
+    "source_page": "https://way2quran.com/ar/reciters/tariq-daoub"
+  },
+  {
+    "id": 60,
+    "name": "عادل الكلباني",
+    "status": "downloaded",
+    "file": "060-عادل الكلباني.jpg",
+    "matched_name": "عادل الكلباني",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A7%D8%AF%D9%84%20%D8%A7%D9%84%D9%83%D9%84%D8%A8%D8%A7%D9%86%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/38/profile"
+  },
+  {
+    "id": 61,
+    "name": "عادل ريان",
+    "status": "downloaded",
+    "file": "061-عادل ريان.jpg",
+    "matched_name": "عادل ريان",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/58.png",
+    "source_page": "https://surahquran.com/sheikh-qari-58.html"
+  },
+  {
+    "id": 62,
+    "name": "عبدالإله بن عون",
+    "status": "downloaded",
+    "file": "062-عبدالإله بن عون.jpg",
+    "matched_name": "عبدالإله بن عون",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/abdul-ilah-bin-aoun.jpg",
+    "source_page": "https://way2quran.com/ar/reciters/abdul-ilah-bin-aoun"
+  },
+  {
+    "id": 63,
+    "name": "عبدالبارئ الثبيتي",
+    "status": "downloaded",
+    "file": "063-عبدالبارئ الثبيتي.jpg",
+    "matched_name": "عبدالبارئ الثبيتي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%A6%20%D8%A7%D9%84%D8%AB%D8%A8%D9%8A%D8%AA%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/41/profile"
+  },
+  {
+    "id": 64,
+    "name": "عبدالبارئ محمد",
+    "status": "downloaded",
+    "file": "064-عبدالبارئ محمد.jpg",
+    "matched_name": "عبدالبارئ محمد",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%A6%20%D9%85%D8%AD%D9%85%D8%AF.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/190/profile"
+  },
+  {
+    "id": 65,
+    "name": "عبدالباسط عبدالصمد",
+    "status": "downloaded",
+    "file": "065-عبدالباسط عبدالصمد.jpg",
+    "matched_name": "عبدالباسط عبدالصمد",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B5%D9%85%D8%AF.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/42/profile"
+  },
+  {
+    "id": 66,
+    "name": "عبدالباسط عبدالصمد",
+    "status": "downloaded",
+    "file": "066-عبدالباسط عبدالصمد.jpg",
+    "matched_name": "عبدالباسط عبدالصمد",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/abdul-basit-abdul-samad.jpg?v=1777515486707",
+    "source_page": "https://way2quran.com/ar/reciters/abdul-basit-abdul-samad"
+  },
+  {
+    "id": 67,
+    "name": "عبدالباسط عبدالصمد",
+    "status": "downloaded",
+    "file": "067-عبدالباسط عبدالصمد.jpg",
+    "matched_name": "عبدالباسط عبدالصمد",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/abdul-basit-abdul-samad.jpg?v=1777515486707",
+    "source_page": "https://way2quran.com/ar/reciters/abdul-basit-abdul-samad"
+  },
+  {
+    "id": 68,
+    "name": "عبدالرحمن السديس",
+    "status": "downloaded",
+    "file": "068-عبدالرحمن السديس.jpg",
+    "matched_name": "عبدالرحمن السديس",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/66.png",
+    "source_page": "https://surahquran.com/sheikh-qari-66.html"
+  },
+  {
+    "id": 69,
+    "name": "عبدالرحمن العوسي",
+    "status": "downloaded",
+    "file": "069-عبدالرحمن العوسي.jpg",
+    "matched_name": "عبدالرحمن العوسي",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/67.png",
+    "source_page": "https://surahquran.com/sheikh-qari-67.html"
+  },
+  {
+    "id": 70,
+    "name": "عبدالرحمن الماجد",
+    "status": "downloaded",
+    "file": "070-عبدالرحمن الماجد.jpg",
+    "matched_name": "عبدالرحمن الماجد",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A7%D9%84%D9%85%D8%A7%D8%AC%D8%AF.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/286/profile"
+  },
+  {
+    "id": 71,
+    "name": "عبدالرشيد صوفي",
+    "status": "downloaded",
+    "file": "071-عبدالرشيد صوفي.jpg",
+    "matched_name": "عبدالرشيد صوفي",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/65.png",
+    "source_page": "https://surahquran.com/sheikh-qari-65.html"
+  },
+  {
+    "id": 72,
+    "name": "عبدالرشيد صوفي",
+    "status": "downloaded",
+    "file": "072-عبدالرشيد صوفي.jpg",
+    "matched_name": "عبدالرشيد صوفي",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/abdul-rashid-sufi.jpg?v=1780254589671",
+    "source_page": "https://way2quran.com/ar/reciters/abdul-rashid-sufi"
+  },
+  {
+    "id": 73,
+    "name": "عبدالرشيد صوفي",
+    "status": "downloaded",
+    "file": "073-عبدالرشيد صوفي.jpg",
+    "matched_name": "عبدالرشيد صوفي",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/abdul-rashid-sufi.jpg?v=1780254589671",
+    "source_page": "https://way2quran.com/ar/reciters/abdul-rashid-sufi"
+  },
+  {
+    "id": 74,
+    "name": "عبدالعزيز الأحمد",
+    "status": "downloaded",
+    "file": "074-عبدالعزيز الأحمد.jpg",
+    "matched_name": "عبدالعزيز الأحمد",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/46/profile"
+  },
+  {
+    "id": 75,
+    "name": "عبدالعزيز الزهراني",
+    "status": "downloaded",
+    "file": "075-عبدالعزيز الزهراني.jpg",
+    "matched_name": "عبدالعزيز الزهراني",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/73.png",
+    "source_page": "https://surahquran.com/sheikh-qari-73.html"
+  },
+  {
+    "id": 76,
+    "name": "عبدالله الخلف",
+    "status": "downloaded",
+    "file": "076-عبدالله الخلف.jpg",
+    "matched_name": "عبدالله الخلف",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%AE%D9%84%D9%81.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/215/profile"
+  },
+  {
+    "id": 77,
+    "name": "عبدالله الكندري",
+    "status": "downloaded",
+    "file": "077-عبدالله الكندري.jpg",
+    "matched_name": "عبدالله الكندري",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D9%83%D9%86%D8%AF%D8%B1%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/194/profile"
+  },
+  {
+    "id": 78,
+    "name": "عبدالله المطرود",
+    "status": "downloaded",
+    "file": "078-عبدالله المطرود.jpg",
+    "matched_name": "عبدالله المطرود",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D9%85%D8%B7%D8%B1%D9%88%D8%AF.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/50/profile"
+  },
+  {
+    "id": 79,
+    "name": "عبدالله بصفر",
+    "status": "downloaded",
+    "file": "079-عبدالله بصفر.jpg",
+    "matched_name": "عبدالله بصفر",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/78.png",
+    "source_page": "https://surahquran.com/sheikh-qari-78.html"
+  },
+  {
+    "id": 80,
+    "name": "عبدالله خياط",
+    "status": "downloaded",
+    "file": "080-عبدالله خياط.jpg",
+    "matched_name": "عبدالله خياط",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%AE%D9%8A%D8%A7%D8%B7.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/52/profile"
+  },
+  {
+    "id": 81,
+    "name": "عبدالله عبدل",
+    "status": "downloaded",
+    "file": "081-عبدالله عبدل.jpg",
+    "matched_name": "عبدالله عبدل",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/social-media-logo.jpg",
+    "source_page": "https://way2quran.com/ar/reciters/abdallah-abdal"
+  },
+  {
+    "id": 82,
+    "name": "عبدالله عواد الجهني",
+    "status": "downloaded",
+    "file": "082-عبدالله عواد الجهني.jpg",
+    "matched_name": "عبدالله عواد الجهني",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/abdullah-al-juhani.jpg?v=1777513933129",
+    "source_page": "https://way2quran.com/ar/reciters/abdullah-al-juhani"
+  },
+  {
+    "id": 83,
+    "name": "عبدالله غيلان",
+    "status": "downloaded",
+    "file": "083-عبدالله غيلان.jpg",
+    "matched_name": "عبدالله غيلان",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/227/profile"
+  },
+  {
+    "id": 84,
+    "name": "عبدالله كامل",
+    "status": "downloaded",
+    "file": "084-عبدالله كامل.jpg",
+    "matched_name": "عبدالله كامل",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/80.png",
+    "source_page": "https://surahquran.com/sheikh-qari-80.html"
+  },
+  {
+    "id": 85,
+    "name": "عبدالمحسن الحارثي",
+    "status": "downloaded",
+    "file": "085-عبدالمحسن الحارثي.jpg",
+    "matched_name": "عبدالمحسن الحارثي",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/83.png",
+    "source_page": "https://surahquran.com/sheikh-qari-83.html"
+  },
+  {
+    "id": 86,
+    "name": "عبدالمحسن العبيكان",
+    "status": "downloaded",
+    "file": "086-عبدالمحسن العبيكان.jpg",
+    "matched_name": "عبدالمحسن العبيكان",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D8%B9%D8%A8%D9%8A%D9%83%D8%A7%D9%86.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/195/profile"
+  },
+  {
+    "id": 87,
+    "name": "عبدالمحسن القاسم",
+    "status": "downloaded",
+    "file": "087-عبدالمحسن القاسم.jpg",
+    "matched_name": "عبدالمحسن القاسم",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/84.png",
+    "source_page": "https://surahquran.com/sheikh-qari-84.html"
+  },
+  {
+    "id": 88,
+    "name": "عبدالهادي أحمد كناكري",
+    "status": "downloaded",
+    "file": "088-عبدالهادي أحمد كناكري.jpg",
+    "matched_name": "عبدالهادي أحمد كناكري",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/86.png",
+    "source_page": "https://surahquran.com/sheikh-qari-86.html"
+  },
+  {
+    "id": 89,
+    "name": "عبدالودود حنيف",
+    "status": "downloaded",
+    "file": "089-عبدالودود حنيف.jpg",
+    "matched_name": "عبدالودود حنيف",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/87.png",
+    "source_page": "https://surahquran.com/sheikh-qari-87.html"
+  },
+  {
+    "id": 90,
+    "name": "علي الحذيفي",
+    "status": "downloaded",
+    "file": "090-علي الحذيفي.jpg",
+    "matched_name": "علي الحذيفي",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/88.png",
+    "source_page": "https://surahquran.com/sheikh-qari-88.html"
+  },
+  {
+    "id": 91,
+    "name": "علي الحذيفي",
+    "status": "downloaded",
+    "file": "091-علي الحذيفي.jpg",
+    "matched_name": "علي الحذيفي",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/ali-abdul-rahman-al-hudhaifi.jpg?v=1782628406284",
+    "source_page": "https://way2quran.com/ar/reciters/ali-abdul-rahman-al-hudhaifi"
+  },
+  {
+    "id": 92,
+    "name": "علي جابر",
+    "status": "downloaded",
+    "file": "092-علي جابر.jpg",
+    "matched_name": "علي جابر",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/90.png",
+    "source_page": "https://surahquran.com/sheikh-qari-90.html"
+  },
+  {
+    "id": 93,
+    "name": "علي حجاج السويسي",
+    "status": "downloaded",
+    "file": "093-علي حجاج السويسي.jpg",
+    "matched_name": "علي حجاج السويسي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D9%84%D9%8A%20%D8%AD%D8%AC%D8%A7%D8%AC%20%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/202/profile"
+  },
+  {
+    "id": 94,
+    "name": "عماد زهير حافظ",
+    "status": "downloaded",
+    "file": "094-عماد زهير حافظ.jpg",
+    "matched_name": "عماد زهير حافظ",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D8%B9%D9%85%D8%A7%D8%AF%20%D8%B2%D9%87%D9%8A%D8%B1%20%D8%AD%D8%A7%D9%81%D8%B8.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/203/profile"
+  },
+  {
+    "id": 95,
+    "name": "عمر القزابري",
+    "status": "downloaded",
+    "file": "095-عمر القزابري.jpg",
+    "matched_name": "عمر القزابري",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/92.png",
+    "source_page": "https://surahquran.com/sheikh-qari-92.html"
+  },
+  {
+    "id": 96,
+    "name": "فؤاد الخامري",
+    "status": "downloaded",
+    "file": "096-فؤاد الخامري.jpg",
+    "matched_name": "فؤاد الخامري",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%81%D8%A4%D8%A7%D8%AF%20%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B1%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/63/profile"
+  },
+  {
+    "id": 97,
+    "name": "فارس عباد",
+    "status": "downloaded",
+    "file": "097-فارس عباد.jpg",
+    "matched_name": "فارس عباد",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%81%D8%A7%D8%B1%D8%B3%20%D8%B9%D8%A8%D8%A7%D8%AF.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/64/profile"
+  },
+  {
+    "id": 98,
+    "name": "ماجد الزامل",
+    "status": "downloaded",
+    "file": "098-ماجد الزامل.jpg",
+    "matched_name": "ماجد الزامل",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%85%D8%A7%D8%AC%D8%AF%20%D8%A7%D9%84%D8%B2%D8%A7%D9%85%D9%84.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/67/profile"
+  },
+  {
+    "id": 99,
+    "name": "مال الله عبدالرحمن الجابر",
+    "status": "downloaded",
+    "file": "099-مال الله عبدالرحمن الجابر.jpg",
+    "matched_name": "مال الله عبدالرحمن الجابر",
+    "match_score": 1,
+    "image_url": "https://www.instagram.com/malalla_aljaber/",
+    "source_page": "https://www.instagram.com/malalla_aljaber/"
+  },
+  {
+    "id": 100,
+    "name": "ماهر المعيقلي",
+    "status": "downloaded",
+    "file": "100-ماهر المعيقلي.jpg",
+    "matched_name": "ماهر المعيقلي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%85%D8%A7%D9%87%D8%B1%20%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D9%82%D9%84%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/68/profile"
+  },
+  {
+    "id": 101,
+    "name": "ماهر المعيقلي",
+    "status": "downloaded",
+    "file": "101-ماهر المعيقلي.jpg",
+    "matched_name": "ماهر المعيقلي",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/maher-almaikulai.jpg?v=1780734648812",
+    "source_page": "https://way2quran.com/ar/reciters/maher-almaikulai"
+  },
+  {
+    "id": 102,
+    "name": "ماهر شخاشيرو",
+    "status": "downloaded",
+    "file": "102-ماهر شخاشيرو.jpg",
+    "matched_name": "ماهر شخاشيرو",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/102.png",
+    "source_page": "https://surahquran.com/sheikh-qari-102.html"
+  },
+  {
+    "id": 103,
+    "name": "محمد أبوسنينة",
+    "status": "downloaded",
+    "file": "103-محمد أبوسنينة.jpg",
+    "matched_name": "محمد أبوسنينة",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/muhammad-abu-snynh.jpg?v=1780235611879",
+    "source_page": "https://way2quran.com/ar/reciters/muhammad-abu-snynh"
+  },
+  {
+    "id": 104,
+    "name": "محمد أيوب",
+    "status": "downloaded",
+    "file": "104-محمد أيوب.jpg",
+    "matched_name": "محمد أيوب",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/mohamed-ayoub.jpg?v=1778816324619",
+    "source_page": "https://way2quran.com/ar/reciters/mohamed-ayoub"
+  },
+  {
+    "id": 105,
+    "name": "محمد الأمين قنيوة",
+    "status": "downloaded",
+    "file": "105-محمد الأمين قنيوة.jpg",
+    "matched_name": "محمد الأمين قنيوة",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/20.png",
+    "source_page": "https://surahquran.com/sheikh-qari-20.html"
+  },
+  {
+    "id": 106,
+    "name": "محمد الطبلاوي",
+    "status": "downloaded",
+    "file": "106-محمد الطبلاوي.jpg",
+    "matched_name": "محمد الطبلاوي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%A7%D9%84%D8%B7%D8%A8%D9%84%D8%A7%D9%88%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/81/profile"
+  },
+  {
+    "id": 107,
+    "name": "محمد اللحيدان",
+    "status": "downloaded",
+    "file": "107-محمد اللحيدان.jpg",
+    "matched_name": "محمد اللحيدان",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/107.png",
+    "source_page": "https://surahquran.com/sheikh-qari-107.html"
+  },
+  {
+    "id": 108,
+    "name": "محمد جبريل",
+    "status": "downloaded",
+    "file": "108-محمد جبريل.jpg",
+    "matched_name": "محمد جبريل",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/109.png",
+    "source_page": "https://surahquran.com/sheikh-qari-109.html"
+  },
+  {
+    "id": 109,
+    "name": "محمد رشاد الشريف",
+    "status": "downloaded",
+    "file": "109-محمد رشاد الشريف.jpg",
+    "matched_name": "محمد رشاد الشريف",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/119.png",
+    "source_page": "https://surahquran.com/sheikh-qari-119.html"
+  },
+  {
+    "id": 110,
+    "name": "محمد سايد",
+    "status": "downloaded",
+    "file": "110-محمد سايد.jpg",
+    "matched_name": "محمد سايد",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/114.png",
+    "source_page": "https://surahquran.com/sheikh-qari-114.html"
+  },
+  {
+    "id": 111,
+    "name": "محمد صالح عالم شاه",
+    "status": "downloaded",
+    "file": "111-محمد صالح عالم شاه.jpg",
+    "matched_name": "محمد صالح عالم شاه",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%B4%D8%A7%D9%87.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/318/profile"
+  },
+  {
+    "id": 112,
+    "name": "محمد صديق المنشاوي",
+    "status": "downloaded",
+    "file": "112-محمد صديق المنشاوي.jpg",
+    "matched_name": "محمد صديق المنشاوي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B5%D8%AF%D9%8A%D9%82%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A%202.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/78/profile"
+  },
+  {
+    "id": 113,
+    "name": "محمد صديق المنشاوي",
+    "status": "downloaded",
+    "file": "113-محمد صديق المنشاوي.jpg",
+    "matched_name": "محمد صديق المنشاوي",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/muhammad-siddiq-al-minshawi.jpg?v=1777516766575",
+    "source_page": "https://way2quran.com/ar/reciters/muhammad-siddiq-al-minshawi"
+  },
+  {
+    "id": 114,
+    "name": "محمد صديق المنشاوي",
+    "status": "downloaded",
+    "file": "114-محمد صديق المنشاوي.jpg",
+    "matched_name": "محمد صديق المنشاوي",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/muhammad-siddiq-al-minshawi.jpg?v=1777516766575",
+    "source_page": "https://way2quran.com/ar/reciters/muhammad-siddiq-al-minshawi"
+  },
+  {
+    "id": 115,
+    "name": "محمد عبدالحكيم العبدالله",
+    "status": "downloaded",
+    "file": "115-محمد عبدالحكيم العبدالله.jpg",
+    "matched_name": "محمد عبدالحكيم العبدالله",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/79/profile"
+  },
+  {
+    "id": 116,
+    "name": "محمد عبدالحكيم العبدالله",
+    "status": "downloaded",
+    "file": "116-محمد عبدالحكيم العبدالله.jpg",
+    "matched_name": "محمد عبدالحكيم العبدالله",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/muhammad-abdul-hakim-al-abdullah.jpg",
+    "source_page": "https://way2quran.com/ar/reciters/muhammad-abdul-hakim-al-abdullah"
+  },
+  {
+    "id": 117,
+    "name": "محمد عبدالكريم",
+    "status": "downloaded",
+    "file": "117-محمد عبدالكريم.jpg",
+    "matched_name": "محمد عبدالكريم",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/80/profile"
+  },
+  {
+    "id": 118,
+    "name": "محمد عبدالكريم",
+    "status": "downloaded",
+    "file": "118-محمد عبدالكريم.jpg",
+    "matched_name": "محمد عبدالكريم",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/mohammad-abd-al-kareem.jpg?v=1780751742911",
+    "source_page": "https://way2quran.com/ar/reciters/mohammad-abd-al-kareem"
+  },
+  {
+    "id": 119,
+    "name": "محمد عثمان خان ( من الهند )",
+    "status": "downloaded",
+    "file": "119-محمد عثمان خان ( من الهند ).jpg",
+    "matched_name": "محمد عثمان خان ( من الهند )",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D8%AE%D8%A7%D9%86.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/319/profile"
+  },
+  {
+    "id": 120,
+    "name": "محمود الرفاعي",
+    "status": "downloaded",
+    "file": "120-محمود الرفاعي.jpg",
+    "matched_name": "محمود الرفاعي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/82/profile"
+  },
+  {
+    "id": 121,
+    "name": "محمود الشيمي",
+    "status": "downloaded",
+    "file": "121-محمود الشيمي.jpg",
+    "matched_name": "محمود الشيمي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%A7%D9%84%D8%B4%D9%8A%D9%85%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/320/profile"
+  },
+  {
+    "id": 122,
+    "name": "محمود خليل الحصري",
+    "status": "downloaded",
+    "file": "122-محمود خليل الحصري.jpg",
+    "matched_name": "محمود خليل الحصري",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/121.png",
+    "source_page": "https://surahquran.com/sheikh-qari-121.html"
+  },
+  {
+    "id": 123,
+    "name": "محمود خليل الحصري",
+    "status": "downloaded",
+    "file": "123-محمود خليل الحصري.jpg",
+    "matched_name": "محمود خليل الحصري",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/mahmoud-khalil-al-hosary.jpg?v=1777817157388",
+    "source_page": "https://way2quran.com/ar/reciters/mahmoud-khalil-al-hosary"
+  },
+  {
+    "id": 124,
+    "name": "محمود خليل الحصري",
+    "status": "downloaded",
+    "file": "124-محمود خليل الحصري.jpg",
+    "matched_name": "محمود خليل الحصري",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/mahmoud-khalil-al-hosary.jpg?v=1777817157388",
+    "source_page": "https://way2quran.com/ar/reciters/mahmoud-khalil-al-hosary"
+  },
+  {
+    "id": 125,
+    "name": "محمود خليل الحصري",
+    "status": "downloaded",
+    "file": "125-محمود خليل الحصري.jpg",
+    "matched_name": "محمود خليل الحصري",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/mahmoud-khalil-al-hosary.jpg?v=1777817157388",
+    "source_page": "https://way2quran.com/ar/reciters/mahmoud-khalil-al-hosary"
+  },
+  {
+    "id": 126,
+    "name": "محمود خليل الحصري",
+    "status": "downloaded",
+    "file": "126-محمود خليل الحصري.jpg",
+    "matched_name": "محمود خليل الحصري",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/mahmoud-khalil-al-hosary.jpg?v=1777817157388",
+    "source_page": "https://way2quran.com/ar/reciters/mahmoud-khalil-al-hosary"
+  },
+  {
+    "id": 127,
+    "name": "محمود عبدالحكم",
+    "status": "downloaded",
+    "file": "127-محمود عبدالحكم.jpg",
+    "matched_name": "محمود عبدالحكم",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/120.png",
+    "source_page": "https://surahquran.com/sheikh-qari-120.html"
+  },
+  {
+    "id": 128,
+    "name": "محمود علي البنا",
+    "status": "downloaded",
+    "file": "128-محمود علي البنا.jpg",
+    "matched_name": "محمود علي البنا",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/124.png",
+    "source_page": "https://surahquran.com/sheikh-qari-124.html"
+  },
+  {
+    "id": 129,
+    "name": "محمود علي البنا",
+    "status": "downloaded",
+    "file": "129-محمود علي البنا.jpg",
+    "matched_name": "محمود علي البنا",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/mahmoud-ali-al-banna.jpg",
+    "source_page": "https://way2quran.com/ar/reciters/mahmoud-ali-al-banna"
+  },
+  {
+    "id": 130,
+    "name": "مروان العكري",
+    "status": "downloaded",
+    "file": "130-مروان العكري.jpg",
+    "matched_name": "مروان العكري",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/mrwan-al-akry.jpg?v=1778849508496",
+    "source_page": "https://way2quran.com/ar/reciters/mrwan-al-akry"
+  },
+  {
+    "id": 131,
+    "name": "مشاري العفاسي",
+    "status": "downloaded",
+    "file": "131-مشاري العفاسي.jpg",
+    "matched_name": "مشاري العفاسي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%20%D8%A7%D9%84%D8%B9%D9%81%D8%A7%D8%B3%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/85/profile"
+  },
+  {
+    "id": 132,
+    "name": "مصطفى إسماعيل",
+    "status": "downloaded",
+    "file": "132-مصطفى إسماعيل.jpg",
+    "matched_name": "مصطفى إسماعيل",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/128.png",
+    "source_page": "https://surahquran.com/sheikh-qari-128.html"
+  },
+  {
+    "id": 133,
+    "name": "مصطفى إسماعيل",
+    "status": "downloaded",
+    "file": "133-مصطفى إسماعيل.jpg",
+    "matched_name": "مصطفى إسماعيل",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/mustafa-ismail.jpg?v=1781113959630",
+    "source_page": "https://way2quran.com/ar/reciters/mustafa-ismail"
+  },
+  {
+    "id": 134,
+    "name": "مصطفى اللاهوني",
+    "status": "downloaded",
+    "file": "134-مصطفى اللاهوني.jpg",
+    "matched_name": "مصطفى اللاهوني",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/130.png",
+    "source_page": "https://surahquran.com/sheikh-qari-130.html"
+  },
+  {
+    "id": 135,
+    "name": "مصطفى رعد العزاوي",
+    "status": "downloaded",
+    "file": "135-مصطفى رعد العزاوي.jpg",
+    "matched_name": "مصطفى رعد العزاوي",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/131.png",
+    "source_page": "https://surahquran.com/sheikh-qari-131.html"
+  },
+  {
+    "id": 136,
+    "name": "معيض الحارثي",
+    "status": "downloaded",
+    "file": "136-معيض الحارثي.jpg",
+    "matched_name": "معيض الحارثي",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/social-media-logo.jpg",
+    "source_page": "https://way2quran.com/ar/reciters/moeed-al-harthy"
+  },
+  {
+    "id": 137,
+    "name": "مفتاح السلطني",
+    "status": "downloaded",
+    "file": "137-مفتاح السلطني.jpg",
+    "matched_name": "مفتاح السلطني",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%85%D9%81%D8%AA%D8%A7%D8%AD%20%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D9%86%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/323/profile"
+  },
+  {
+    "id": 138,
+    "name": "مفتاح السلطني",
+    "status": "downloaded",
+    "file": "138-مفتاح السلطني.jpg",
+    "matched_name": "مفتاح السلطني",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/muftah-al-saltani.jpg",
+    "source_page": "https://way2quran.com/ar/reciters/muftah-al-saltani"
+  },
+  {
+    "id": 139,
+    "name": "مفتاح السلطني",
+    "status": "downloaded",
+    "file": "139-مفتاح السلطني.jpg",
+    "matched_name": "مفتاح السلطني",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/muftah-al-saltani.jpg",
+    "source_page": "https://way2quran.com/ar/reciters/muftah-al-saltani"
+  },
+  {
+    "id": 140,
+    "name": "مفتاح السلطني",
+    "status": "downloaded",
+    "file": "140-مفتاح السلطني.jpg",
+    "matched_name": "مفتاح السلطني",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/muftah-al-saltani.jpg",
+    "source_page": "https://way2quran.com/ar/reciters/muftah-al-saltani"
+  },
+  {
+    "id": 141,
+    "name": "موسى بلال",
+    "status": "downloaded",
+    "file": "141-موسى بلال.jpg",
+    "matched_name": "موسى بلال",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%85%D9%88%D8%B3%D9%89%20%D8%A8%D9%84%D8%A7%D9%84.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/324/profile"
+  },
+  {
+    "id": 142,
+    "name": "ناصر القطامي",
+    "status": "downloaded",
+    "file": "142-ناصر القطامي.jpg",
+    "matched_name": "ناصر القطامي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%86%D8%A7%D8%B5%D8%B1%20%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D9%85%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/90/profile"
+  },
+  {
+    "id": 143,
+    "name": "ناصر الماجد",
+    "status": "downloaded",
+    "file": "143-ناصر الماجد.jpg",
+    "matched_name": "ناصر الماجد",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/nasser-almajed.jpg?v=1778164641940",
+    "source_page": "https://way2quran.com/ar/reciters/nasser-almajed"
+  },
+  {
+    "id": 144,
+    "name": "نبيل الرفاعي",
+    "status": "downloaded",
+    "file": "144-نبيل الرفاعي.jpg",
+    "matched_name": "نبيل الرفاعي",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/134.png",
+    "source_page": "https://surahquran.com/sheikh-qari-134.html"
+  },
+  {
+    "id": 145,
+    "name": "نذير المالكي",
+    "status": "downloaded",
+    "file": "145-نذير المالكي.jpg",
+    "matched_name": "نذير المالكي",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/nadhir-almaliki.jpg?v=1778186742856",
+    "source_page": "https://way2quran.com/ar/reciters/nadhir-almaliki"
+  },
+  {
+    "id": 146,
+    "name": "نعمة الحسان",
+    "status": "downloaded",
+    "file": "146-نعمة الحسان.jpg",
+    "matched_name": "نعمة الحسان",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/164.png",
+    "source_page": "https://surahquran.com/sheikh-qari-164.html"
+  },
+  {
+    "id": 147,
+    "name": "نورين محمد صديق",
+    "status": "downloaded",
+    "file": "147-نورين محمد صديق.jpg",
+    "matched_name": "نورين محمد صديق",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/133.png",
+    "source_page": "https://surahquran.com/sheikh-qari-133.html"
+  },
+  {
+    "id": 148,
+    "name": "هاشم أبو دلال",
+    "status": "downloaded",
+    "file": "148-هاشم أبو دلال.png",
+    "matched_name": "هاشم أبو دلال",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/hashim-abu-dallal.png",
+    "source_page": "https://way2quran.com/ar/reciters/hashim-abu-dallal"
+  },
+  {
+    "id": 149,
+    "name": "هاني الرفاعي",
+    "status": "downloaded",
+    "file": "149-هاني الرفاعي.jpg",
+    "matched_name": "هاني الرفاعي",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/135.png",
+    "source_page": "https://surahquran.com/sheikh-qari-135.html"
+  },
+  {
+    "id": 150,
+    "name": "وديع اليمني",
+    "status": "downloaded",
+    "file": "150-وديع اليمني.jpg",
+    "matched_name": "وديع اليمني",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/136.png",
+    "source_page": "https://surahquran.com/sheikh-qari-136.html"
+  },
+  {
+    "id": 151,
+    "name": "وليد النائحي",
+    "status": "downloaded",
+    "file": "151-وليد النائحي.jpg",
+    "matched_name": "وليد النائحي",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/waleed-alnayhi.jpg?v=1778163178168",
+    "source_page": "https://way2quran.com/ar/reciters/waleed-alnayhi"
+  },
+  {
+    "id": 152,
+    "name": "ياسر الدوسري",
+    "status": "downloaded",
+    "file": "152-ياسر الدوسري.jpg",
+    "matched_name": "ياسر الدوسري",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/137.png",
+    "source_page": "https://surahquran.com/sheikh-qari-137.html"
+  },
+  {
+    "id": 153,
+    "name": "ياسر القرشي",
+    "status": "downloaded",
+    "file": "153-ياسر القرشي.jpg",
+    "matched_name": "ياسر القرشي",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/138.png",
+    "source_page": "https://surahquran.com/sheikh-qari-138.html"
+  },
+  {
+    "id": 154,
+    "name": "ياسر المزروعي",
+    "status": "downloaded",
+    "file": "154-ياسر المزروعي.jpg",
+    "matched_name": "ياسر المزروعي",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D9%8A.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/329/profile"
+  },
+  {
+    "id": 155,
+    "name": "ياسر سلامة",
+    "status": "downloaded",
+    "file": "155-ياسر سلامة.jpg",
+    "matched_name": "ياسر سلامة",
+    "match_score": 1,
+    "image_url": "https://surahquran.com/img/quraa/139.png",
+    "source_page": "https://surahquran.com/sheikh-qari-139.html"
+  },
+  {
+    "id": 156,
+    "name": "يحيى حوا",
+    "status": "downloaded",
+    "file": "156-يحيى حوا.jpg",
+    "matched_name": "يحيى حوا",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%8A%D8%AD%D9%8A%D9%89%20%D8%AD%D9%88%D8%A7.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/96/profile"
+  },
+  {
+    "id": 157,
+    "name": "يوسف الشويعي",
+    "status": "downloaded",
+    "file": "157-يوسف الشويعي.png",
+    "matched_name": "يوسف الشويعي",
+    "match_score": 1,
+    "image_url": "https://media.way2quran.com/imgs/youssef-al-shuwaii.png",
+    "source_page": "https://way2quran.com/ar/reciters/youssef-al-shuwaii"
+  },
+  {
+    "id": 158,
+    "name": "يوسف بن نوح أحمد",
+    "status": "downloaded",
+    "file": "158-يوسف بن نوح أحمد.jpg",
+    "matched_name": "يوسف بن نوح أحمد",
+    "match_score": 1,
+    "image_url": "https://tvquran.com/uploads/authors/images/%D9%8A%D9%88%D8%B3%D9%81%20%D9%86%D9%88%D8%AD%20%D8%A3%D8%AD%D9%85%D8%AF.jpg",
+    "source_page": "https://www.tvquran.com/ar/scholar/99/profile"
+  }
+]

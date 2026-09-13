@@ -1,0 +1,922 @@
+[
+  {
+    "id": 1,
+    "name": "إبراهيم الأخضر",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/akdr/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=1"
+  },
+  {
+    "id": 3,
+    "name": "إبراهيم العسيري",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/3siri/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=3"
+  },
+  {
+    "id": 4,
+    "name": "شيخ أبو بكر الشاطري",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server11.mp3quran.net/shatri/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=4"
+  },
+  {
+    "id": 5,
+    "name": "أحمد بن علي العجمي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server10.mp3quran.net/ajm/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=5"
+  },
+  {
+    "id": 6,
+    "name": "أحمد الحواشي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server11.mp3quran.net/hawashi/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=6"
+  },
+  {
+    "id": 8,
+    "name": "أحمد صابر",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/saber/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=8"
+  },
+  {
+    "id": 9,
+    "name": "أحمد نعينع",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server11.mp3quran.net/ahmad_nu/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=9"
+  },
+  {
+    "id": 10,
+    "name": "أكرم العلاقمي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server9.mp3quran.net/akrm/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=10"
+  },
+  {
+    "id": 12,
+    "name": "إدريس أبكر",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/abkr/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=12"
+  },
+  {
+    "id": 13,
+    "name": "الزين محمد أحمد",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server9.mp3quran.net/alzain/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=13"
+  },
+  {
+    "id": 14,
+    "name": "القارئ ياسين",
+    "rewaya": "ورش عن نافع",
+    "folder_url": "https://server11.mp3quran.net/qari/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=14"
+  },
+  {
+    "id": 16,
+    "name": "العيون الكوشي",
+    "rewaya": "ورش عن نافع",
+    "folder_url": "https://server11.mp3quran.net/koshi/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=16"
+  },
+  {
+    "id": 17,
+    "name": "توفيق الصايغ",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/twfeeq/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=17"
+  },
+  {
+    "id": 20,
+    "name": "خالد الجليل",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server10.mp3quran.net/jleel/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=20"
+  },
+  {
+    "id": 21,
+    "name": "خالد القحطاني",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server10.mp3quran.net/qht/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=21"
+  },
+  {
+    "id": 22,
+    "name": "خالد عبدالكافي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server11.mp3quran.net/kafi/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=22"
+  },
+  {
+    "id": 24,
+    "name": "خليفة الطنيجي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server12.mp3quran.net/tnjy/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=24"
+  },
+  {
+    "id": 25,
+    "name": "داود حمزة",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server9.mp3quran.net/hamza/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=25"
+  },
+  {
+    "id": 30,
+    "name": "سعد الغامدي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server7.mp3quran.net/s_gmd/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=30"
+  },
+  {
+    "id": 31,
+    "name": "سعود الشريم",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server7.mp3quran.net/shur/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=31"
+  },
+  {
+    "id": 32,
+    "name": "سهل ياسين",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/shl/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=32"
+  },
+  {
+    "id": 33,
+    "name": "زكي داغستاني",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server9.mp3quran.net/zaki/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=33"
+  },
+  {
+    "id": 38,
+    "name": "شيرزاد عبدالرحمن طاهر",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server12.mp3quran.net/taher/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=38"
+  },
+  {
+    "id": 39,
+    "name": "صابر عبدالحكم",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server12.mp3quran.net/hkm/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=39"
+  },
+  {
+    "id": 40,
+    "name": "صالح الصاهود",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/sahood/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=40"
+  },
+  {
+    "id": 42,
+    "name": "صالح الهبدان",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/habdan/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=42"
+  },
+  {
+    "id": 43,
+    "name": "صلاح البدير",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/s_bud/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=43"
+  },
+  {
+    "id": 44,
+    "name": "صلاح الهاشم",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server12.mp3quran.net/salah_hashim_m/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=44"
+  },
+  {
+    "id": 46,
+    "name": "صلاح بو خاطر",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/bu_khtr/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=46"
+  },
+  {
+    "id": 48,
+    "name": "عادل ريان",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/ryan/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=48"
+  },
+  {
+    "id": 49,
+    "name": "عبدالبارئ الثبيتي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/thubti/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=49"
+  },
+  {
+    "id": 50,
+    "name": "عبدالبارئ محمد",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server12.mp3quran.net/bari/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=50"
+  },
+  {
+    "id": 51,
+    "name": "عبدالباسط عبدالصمد",
+    "rewaya": "المصحف المجود",
+    "folder_url": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=51"
+  },
+  {
+    "id": 53,
+    "name": "عبدالباسط عبدالصمد",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server7.mp3quran.net/basit/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=53"
+  },
+  {
+    "id": 54,
+    "name": "عبدالرحمن السديس",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server11.mp3quran.net/sds/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=54"
+  },
+  {
+    "id": 55,
+    "name": "عبدالعزيز الأحمد",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server11.mp3quran.net/a_ahmed/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=55"
+  },
+  {
+    "id": 56,
+    "name": "عبدالعزيز الزهراني",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server9.mp3quran.net/zahrani/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=56"
+  },
+  {
+    "id": 58,
+    "name": "عبدالله البعيجان",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/buajan/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=58"
+  },
+  {
+    "id": 59,
+    "name": "عبدالله المطرود",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/mtrod/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=59"
+  },
+  {
+    "id": 60,
+    "name": "عبدالله بصفر",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/bsfr/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=60"
+  },
+  {
+    "id": 61,
+    "name": "عبدالله خياط",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server12.mp3quran.net/kyat/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=61"
+  },
+  {
+    "id": 62,
+    "name": "عبدالله عواد الجهني",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server13.mp3quran.net/jhn/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=62"
+  },
+  {
+    "id": 65,
+    "name": "عبدالرشيد صوفي",
+    "rewaya": "السوسي عن أبي عمرو",
+    "folder_url": "https://server16.mp3quran.net/soufi/Rewayat-Assosi-A-n-Abi-Amr/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=65"
+  },
+  {
+    "id": 66,
+    "name": "عبدالمحسن الحارثي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/mohsin_harthi/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=66"
+  },
+  {
+    "id": 67,
+    "name": "عبدالمحسن القاسم",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/qasm/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=67"
+  },
+  {
+    "id": 69,
+    "name": "عبدالمحسن العبيكان",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server12.mp3quran.net/obk/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=69"
+  },
+  {
+    "id": 70,
+    "name": "عبدالهادي أحمد كناكري",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/kanakeri/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=70"
+  },
+  {
+    "id": 71,
+    "name": "عبدالودود حنيف",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/wdod/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=71"
+  },
+  {
+    "id": 72,
+    "name": "عبدالولي الأركاني",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/arkani/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=72"
+  },
+  {
+    "id": 74,
+    "name": "علي بن عبدالرحمن الحذيفي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server9.mp3quran.net/hthfi/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=74"
+  },
+  {
+    "id": 75,
+    "name": "علي بن عبدالرحمن الحذيفي",
+    "rewaya": "قالون عن نافع",
+    "folder_url": "https://server9.mp3quran.net/huthifi_qalon/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=75"
+  },
+  {
+    "id": 76,
+    "name": "علي جابر",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server11.mp3quran.net/a_jbr/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=76"
+  },
+  {
+    "id": 77,
+    "name": "علي حجاج السويسي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server9.mp3quran.net/hajjaj/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=77"
+  },
+  {
+    "id": 78,
+    "name": "عماد زهير حافظ",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/hafz/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=78"
+  },
+  {
+    "id": 80,
+    "name": "عمر القزابري",
+    "rewaya": "ورش عن نافع",
+    "folder_url": "https://server9.mp3quran.net/omar_warsh/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=80"
+  },
+  {
+    "id": 81,
+    "name": "فارس عباد",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/frs_a/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=81"
+  },
+  {
+    "id": 86,
+    "name": "ناصر القطامي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/qtm/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=86"
+  },
+  {
+    "id": 87,
+    "name": "نبيل الرفاعي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server9.mp3quran.net/nabil/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=87"
+  },
+  {
+    "id": 88,
+    "name": "نعمة الحسان",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/namh/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=88"
+  },
+  {
+    "id": 89,
+    "name": "هاني الرفاعي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/hani/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=89"
+  },
+  {
+    "id": 92,
+    "name": "ياسر الدوسري",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server11.mp3quran.net/yasser/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=92"
+  },
+  {
+    "id": 106,
+    "name": "محمد الطبلاوي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server12.mp3quran.net/tblawi/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=106"
+  },
+  {
+    "id": 109,
+    "name": "محمد أيوب",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/ayyub/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=109"
+  },
+  {
+    "id": 110,
+    "name": "محمد صالح عالم شاه",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server12.mp3quran.net/shah/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=110"
+  },
+  {
+    "id": 112,
+    "name": "محمد صديق المنشاوي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server10.mp3quran.net/minsh/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=112"
+  },
+  {
+    "id": 115,
+    "name": "محمد عبدالكريم",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server12.mp3quran.net/m_krm/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=115"
+  },
+  {
+    "id": 118,
+    "name": "محمود خليل الحصري",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server13.mp3quran.net/husr/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=118"
+  },
+  {
+    "id": 119,
+    "name": "محمود خليل الحصري",
+    "rewaya": "المصحف المجود",
+    "folder_url": "https://server13.mp3quran.net/husr/Almusshaf-Al-Mojawwad/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=119"
+  },
+  {
+    "id": 120,
+    "name": "محمود خليل الحصري",
+    "rewaya": "ورش عن نافع",
+    "folder_url": "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=120"
+  },
+  {
+    "id": 122,
+    "name": "محمود علي البنا",
+    "rewaya": "المصحف المجود",
+    "folder_url": "https://server8.mp3quran.net/bna/Almusshaf-Al-Mojawwad/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=122"
+  },
+  {
+    "id": 123,
+    "name": "مشاري العفاسي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/afs/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=123"
+  },
+  {
+    "id": 133,
+    "name": "ماهر المعيقلي",
+    "rewaya": "المصحف المجود",
+    "folder_url": "https://server12.mp3quran.net/maher/Almusshaf-Al-Mojawwad/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=133"
+  },
+  {
+    "id": 134,
+    "name": "محمد سايد",
+    "rewaya": "ورش عن نافع",
+    "folder_url": "https://server16.mp3quran.net/m_sayed/Rewayat-Warsh-A-n-Nafi/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=134"
+  },
+  {
+    "id": 135,
+    "name": "عبدالرحمن السويّد",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/a_swaiyd/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 107,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=135"
+  },
+  {
+    "id": 137,
+    "name": "أحمد طالب بن حميد",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/a_binhameed/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 107,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=137"
+  },
+  {
+    "id": 139,
+    "name": "ماجد الزامل",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server9.mp3quran.net/zaml/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=139"
+  },
+  {
+    "id": 159,
+    "name": "خالد المهنا",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server11.mp3quran.net/mohna/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=159"
+  },
+  {
+    "id": 181,
+    "name": "جمعان العصيمي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/jaman/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=181"
+  },
+  {
+    "id": 193,
+    "name": "يوسف بن نوح أحمد",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/noah/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=193"
+  },
+  {
+    "id": 198,
+    "name": "محمد رشاد الشريف",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server10.mp3quran.net/rashad/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=198"
+  },
+  {
+    "id": 201,
+    "name": "أحمد الطرابلسي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server10.mp3quran.net/trabulsi/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=201"
+  },
+  {
+    "id": 203,
+    "name": "أحمد عامر",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server10.mp3quran.net/Aamer/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=203"
+  },
+  {
+    "id": 208,
+    "name": "الدوكالي محمد العالم",
+    "rewaya": "قالون عن نافع",
+    "folder_url": "https://server7.mp3quran.net/dokali/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=208"
+  },
+  {
+    "id": 217,
+    "name": "بندر بليله",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/balilah/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=217"
+  },
+  {
+    "id": 219,
+    "name": "وديع اليمني",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/wdee3/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=219"
+  },
+  {
+    "id": 221,
+    "name": "رعد محمد الكردي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/kurdi/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=221"
+  },
+  {
+    "id": 225,
+    "name": "عبدالرحمن العوسي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server6.mp3quran.net/aloosi/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=225"
+  },
+  {
+    "id": 229,
+    "name": "محمد خليل القارئ",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server8.mp3quran.net/m_qari/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=229"
+  },
+  {
+    "id": 232,
+    "name": "إبراهيم الدوسري",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=232"
+  },
+  {
+    "id": 236,
+    "name": "عبدالرحمن الماجد",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server10.mp3quran.net/a_majed/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=236"
+  },
+  {
+    "id": 243,
+    "name": "عبدالله الموسى",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server14.mp3quran.net/mousa/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=243"
+  },
+  {
+    "id": 244,
+    "name": "عبدالله الخلف",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server14.mp3quran.net/khalf/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=244"
+  },
+  {
+    "id": 245,
+    "name": "منصور السالمي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server14.mp3quran.net/mansor/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=245"
+  },
+  {
+    "id": 250,
+    "name": "محمد البخيت",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server14.mp3quran.net/bukheet/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=250"
+  },
+  {
+    "id": 256,
+    "name": "أحمد خليل شاهين",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/shaheen/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=256"
+  },
+  {
+    "id": 258,
+    "name": "عبدالرشيد صوفي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/soufi/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=258"
+  },
+  {
+    "id": 259,
+    "name": "أحمد النفيس",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=259"
+  },
+  {
+    "id": 265,
+    "name": "أحمد ديبان",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=265"
+  },
+  {
+    "id": 268,
+    "name": "بيشه وا قادر الكردي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=268"
+  },
+  {
+    "id": 269,
+    "name": "محمود خليل الحصري",
+    "rewaya": "الدوري عن أبي عمرو",
+    "folder_url": "https://server13.mp3quran.net/husr/Rewayat-Aldori-A-n-Abi-Amr/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=269"
+  },
+  {
+    "id": 270,
+    "name": "محمود خليل الحصري",
+    "rewaya": "قالون عن نافع",
+    "folder_url": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=270"
+  },
+  {
+    "id": 273,
+    "name": "هيثم الدخين",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/h_dukhain/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=273"
+  },
+  {
+    "id": 282,
+    "name": "عبدالعزيز التركي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/a_turki/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=282"
+  },
+  {
+    "id": 288,
+    "name": "مصطفى إسماعيل",
+    "rewaya": "المصحف المجود",
+    "folder_url": "https://server8.mp3quran.net/mustafa/Almusshaf-Al-Mojawwad/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=288"
+  },
+  {
+    "id": 289,
+    "name": "أحمد عيسى المعصراوي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/a_maasaraawi/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=289"
+  },
+  {
+    "id": 294,
+    "name": "سيد أحمد هاشمي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/s_hashemi/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=294"
+  },
+  {
+    "id": 295,
+    "name": "خالد كريم محمدي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/kh_mohammadi/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=295"
+  },
+  {
+    "id": 296,
+    "name": "عكاشة كميني",
+    "rewaya": "البزي عن ابن كثير",
+    "folder_url": "https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=296"
+  },
+  {
+    "id": 299,
+    "name": "حسن صالح",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/h_saleh/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=299"
+  },
+  {
+    "id": 300,
+    "name": "صالح الشمراني",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/shamrani/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=300"
+  },
+  {
+    "id": 303,
+    "name": "عيسى عمر سناكو",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=303"
+  },
+  {
+    "id": 305,
+    "name": "علي بن عبدالرحمن الحذيفي",
+    "rewaya": "شعبة  عن عاصم",
+    "folder_url": "https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=305"
+  },
+  {
+    "id": 314,
+    "name": "أنس العمادي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/a_alemadi/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=314"
+  },
+  {
+    "id": 340,
+    "name": "محمد برهجي",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/M_Burhaji/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=340"
+  },
+  {
+    "id": 10905,
+    "name": "حسن الدغريري",
+    "rewaya": "حفص عن عاصم",
+    "folder_url": "https://server16.mp3quran.net/H-Aldaghriri/Rewayat-Hafs-A-n-Assem/",
+    "soar_count": 114,
+    "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=10905"
+  }
+]

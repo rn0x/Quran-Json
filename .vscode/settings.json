@@ -1,0 +1,60 @@
+{
+    "dbMcp.provider": "sqlite",
+    "dbMcp.connectionString": "C:\\Users\\alrom\\Desktop\\hamadArif\\quran_websit_cont\\Quran-Data\\data\\sqlite\\database.sqlite",
+    "dbcode.connections": [
+        {
+            "connectionId": "gXUuykmuhoqiGe4SpNM3q",
+            "name": "quran",
+            "driver": "sqlite",
+            "color": "#FCCCD1",
+            "socket": "Quran-Data/data/sqlite/database.sqlite",
+            "readOnly": false,
+            "role": "development",
+            "driverOptions": {
+                "extensions": []
+            },
+            "connectionType": "socket"
+        },
+        {
+            "connectionId": "tFK1uvC6VWKieAMyX6Yvr",
+            "name": "quran-data",
+            "driver": "sqlite",
+            "socket": "Quran-Data/data/sqlite/database.sqlite",
+            "readOnly": false,
+            "role": "development",
+            "driverOptions": {
+                "extensions": []
+            },
+            "connectionType": "socket"
+        }
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#c14e4e",
+        "activityBar.background": "#c14e4e",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#5ac55a",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#c14e4e",
+        "statusBar.background": "#a33939",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#c14e4e",
+        "statusBarItem.remoteBackground": "#3aa53a",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#a33939",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#a3393999",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "activityBarTop.activeBackground": "#c14e4e",
+        "activityBarTop.background": "#c14e4e",
+        "activityBarTop.foreground": "#e7e7e7",
+        "activityBarTop.inactiveForeground": "#e7e7e799",
+        "commandCenter.foreground": "#e7e7e7",
+        "statusBar.debuggingBackground": "#a33939",
+        "statusBar.debuggingForeground": "#e7e7e7",
+        "activityBar.activeBorder": "#e7e7e7",
+        "activityBarTop.activeBorder": "#e7e7e7"
+    },
+    "peacock.color": "#a33939"
+}

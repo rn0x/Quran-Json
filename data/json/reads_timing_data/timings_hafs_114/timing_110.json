@@ -1,0 +1,3809 @@
+{
+  "surah": 110,
+  "surah_padded": "110",
+  "rewaya": "حفص عن عاصم",
+  "reads_count": 96,
+  "reads": [
+    {
+      "read_id": 1,
+      "read_name": "إبراهيم الأخضر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/akdr/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=1",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 8186,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 8186,
+          "end_time": 14829,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 14829,
+          "end_time": 23368,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 23368,
+          "end_time": 34586,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 3,
+      "read_name": "إبراهيم العسيري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/3siri/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=3",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 315,
+          "end_time": 5586,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 5586,
+          "end_time": 13062,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 13062,
+          "end_time": 21819,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 4,
+      "read_name": "شيخ أبو بكر الشاطري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/shatri/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=4",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 7623,
+          "end_time": 11991,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 11991,
+          "end_time": 18522,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18522,
+          "end_time": 25767,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 5,
+      "read_name": "أحمد بن علي العجمي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/ajm/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=5",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 110,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 110,
+          "end_time": 5005,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 5005,
+          "end_time": 11355,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 11355,
+          "end_time": 19293,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 6,
+      "read_name": "أحمد الحواشي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/hawashi/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=6",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 2205,
+          "end_time": 6090,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 6090,
+          "end_time": 16779,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 16779,
+          "end_time": 27699,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 8,
+      "read_name": "أحمد صابر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/saber/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=8",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5460,
+          "end_time": 11600,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 11600,
+          "end_time": 20440,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 20440,
+          "end_time": 29960,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 9,
+      "read_name": "أحمد نعينع",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/ahmad_nu/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=9",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 5014,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5014,
+          "end_time": 12007,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 12007,
+          "end_time": 21378,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 21378,
+          "end_time": 31951,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 10,
+      "read_name": "أكرم العلاقمي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/akrm/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=10",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 5073,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5073,
+          "end_time": 11104,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 11104,
+          "end_time": 19452,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 19452,
+          "end_time": 29332,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 12,
+      "read_name": "إدريس أبكر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/abkr/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=12",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4000,
+          "end_time": 10080,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10080,
+          "end_time": 18800,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18800,
+          "end_time": 29040,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 13,
+      "read_name": "الزين محمد أحمد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/alzain/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=13",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3570,
+          "end_time": 8337,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 8337,
+          "end_time": 15036,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 15036,
+          "end_time": 21945,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 17,
+      "read_name": "توفيق الصايغ",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/twfeeq/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=17",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3654,
+          "end_time": 9597,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9597,
+          "end_time": 16968,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 16968,
+          "end_time": 25158,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 20,
+      "read_name": "خالد الجليل",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/jleel/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=20",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5334,
+          "end_time": 10017,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10017,
+          "end_time": 16422,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 16422,
+          "end_time": 24654,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 21,
+      "read_name": "خالد القحطاني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/qht/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=21",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3675,
+          "end_time": 9954,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9954,
+          "end_time": 17010,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 17010,
+          "end_time": 24423,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 22,
+      "read_name": "خالد عبدالكافي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/kafi/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=22",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4599,
+          "end_time": 8820,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 8820,
+          "end_time": 15540,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 15540,
+          "end_time": 23121,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 24,
+      "read_name": "خليفة الطنيجي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/tnjy/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=24",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 6048,
+          "end_time": 11466,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 11466,
+          "end_time": 18879,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18879,
+          "end_time": 27405,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 25,
+      "read_name": "داود حمزة",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/hamza/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=25",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4809,
+          "end_time": 10269,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10269,
+          "end_time": 18291,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18291,
+          "end_time": 27216,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 30,
+      "read_name": "سعد الغامدي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server7.mp3quran.net/s_gmd/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=30",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5880,
+          "end_time": 10857,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10857,
+          "end_time": 18732,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18732,
+          "end_time": 26733,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 31,
+      "read_name": "سعود الشريم",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server7.mp3quran.net/shur/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=31",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 2515,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 2515,
+          "end_time": 5816,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 5816,
+          "end_time": 11491,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 11491,
+          "end_time": 18352,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 32,
+      "read_name": "سهل ياسين",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/shl/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=32",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 2922,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 2922,
+          "end_time": 7479,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 7479,
+          "end_time": 14504,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 14504,
+          "end_time": 22471,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 33,
+      "read_name": "زكي داغستاني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/zaki/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=33",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 6640,
+          "end_time": 12440,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 12440,
+          "end_time": 22360,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 22360,
+          "end_time": 33300,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 38,
+      "read_name": "شيرزاد عبدالرحمن طاهر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/taher/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=38",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 2499,
+          "end_time": 7644,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 7644,
+          "end_time": 15729,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 15729,
+          "end_time": 25620,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 39,
+      "read_name": "صابر عبدالحكم",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/hkm/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=39",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 252,
+          "end_time": 4935,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 4935,
+          "end_time": 12558,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 12558,
+          "end_time": 20727,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 40,
+      "read_name": "صالح الصاهود",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/sahood/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=40",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3591,
+          "end_time": 9387,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9387,
+          "end_time": 16128,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 16128,
+          "end_time": 24255,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 42,
+      "read_name": "صالح الهبدان",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/habdan/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=42",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5061,
+          "end_time": 9345,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9345,
+          "end_time": 15834,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 15834,
+          "end_time": 23898,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 43,
+      "read_name": "صلاح البدير",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/s_bud/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=43",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4956,
+          "end_time": 9870,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9870,
+          "end_time": 17115,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 17115,
+          "end_time": 25998,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 44,
+      "read_name": "صلاح الهاشم",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/salah_hashim_m/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=44",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4840,
+          "end_time": 9620,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9620,
+          "end_time": 16320,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 16320,
+          "end_time": 24180,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 46,
+      "read_name": "صلاح بو خاطر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/bu_khtr/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=46",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 189,
+          "end_time": 4599,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 4599,
+          "end_time": 11739,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 11739,
+          "end_time": 19572,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 48,
+      "read_name": "عادل ريان",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/ryan/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=48",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3680,
+          "end_time": 9380,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9380,
+          "end_time": 16640,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 16640,
+          "end_time": 28220,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 49,
+      "read_name": "عبدالبارئ الثبيتي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/thubti/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=49",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3927,
+          "end_time": 8862,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 8862,
+          "end_time": 15666,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 15666,
+          "end_time": 24066,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 50,
+      "read_name": "عبدالبارئ محمد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/bari/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=50",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 7040,
+          "end_time": 14260,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 14260,
+          "end_time": 24960,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 24960,
+          "end_time": 36640,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 53,
+      "read_name": "عبدالباسط عبدالصمد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server7.mp3quran.net/basit/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=53",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 3675,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3675,
+          "end_time": 9575,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9575,
+          "end_time": 17393,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 17393,
+          "end_time": 26957,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 54,
+      "read_name": "عبدالرحمن السديس",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/sds/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=54",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 2541,
+          "end_time": 7518,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 7518,
+          "end_time": 13902,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 13902,
+          "end_time": 22218,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 55,
+      "read_name": "عبدالعزيز الأحمد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/a_ahmed/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=55",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 2499,
+          "end_time": 6741,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 6741,
+          "end_time": 13524,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 13524,
+          "end_time": 21420,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 56,
+      "read_name": "عبدالعزيز الزهراني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/zahrani/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=56",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3192,
+          "end_time": 8484,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 8484,
+          "end_time": 16317,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 16317,
+          "end_time": 25599,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 58,
+      "read_name": "عبدالله البعيجان",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/buajan/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=58",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 10680,
+          "end_time": 15960,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 15960,
+          "end_time": 24080,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 24080,
+          "end_time": 32720,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 59,
+      "read_name": "عبدالله المطرود",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/mtrod/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=59",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4767,
+          "end_time": 10227,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10227,
+          "end_time": 18081,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18081,
+          "end_time": 26586,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 60,
+      "read_name": "عبدالله بصفر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/bsfr/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=60",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 4749,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4749,
+          "end_time": 10110,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10110,
+          "end_time": 18010,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18010,
+          "end_time": 27585,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 61,
+      "read_name": "عبدالله خياط",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/kyat/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=61",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3024,
+          "end_time": 9198,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9198,
+          "end_time": 16800,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 16800,
+          "end_time": 22617,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 62,
+      "read_name": "عبدالله عواد الجهني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server13.mp3quran.net/jhn/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=62",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 2657,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 2657,
+          "end_time": 7090,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 7090,
+          "end_time": 13553,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 13553,
+          "end_time": 21080,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 66,
+      "read_name": "عبدالمحسن الحارثي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/mohsin_harthi/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=66",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3507,
+          "end_time": 9030,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9030,
+          "end_time": 16170,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 16170,
+          "end_time": 23730,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 67,
+      "read_name": "عبدالمحسن القاسم",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/qasm/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=67",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 4723,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4723,
+          "end_time": 9345,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9345,
+          "end_time": 15665,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 15665,
+          "end_time": 22795,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 69,
+      "read_name": "عبدالمحسن العبيكان",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/obk/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=69",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 1617,
+          "end_time": 5649,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 5649,
+          "end_time": 12306,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 12306,
+          "end_time": 20160,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 70,
+      "read_name": "عبدالهادي أحمد كناكري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/kanakeri/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=70",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4893,
+          "end_time": 9786,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9786,
+          "end_time": 17661,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 17661,
+          "end_time": 27027,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 71,
+      "read_name": "عبدالودود حنيف",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/wdod/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=71",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3255,
+          "end_time": 7161,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 7161,
+          "end_time": 12390,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 12390,
+          "end_time": 18963,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 72,
+      "read_name": "عبدالولي الأركاني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/arkani/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=72",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 8020,
+          "end_time": 14080,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 14080,
+          "end_time": 22400,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 22400,
+          "end_time": 33120,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 74,
+      "read_name": "علي بن عبدالرحمن الحذيفي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/hthfi/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=74",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 5816,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5816,
+          "end_time": 12316,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 12316,
+          "end_time": 20243,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 20243,
+          "end_time": 31000,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 76,
+      "read_name": "علي جابر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/a_jbr/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=76",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5985,
+          "end_time": 11067,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 11067,
+          "end_time": 19236,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 19236,
+          "end_time": 27783,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 77,
+      "read_name": "علي حجاج السويسي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/hajjaj/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=77",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 3368,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3368,
+          "end_time": 8591,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 8591,
+          "end_time": 15668,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 15668,
+          "end_time": 23993,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 78,
+      "read_name": "عماد زهير حافظ",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/hafz/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=78",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 8142,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 8142,
+          "end_time": 14216,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 14216,
+          "end_time": 22236,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 22236,
+          "end_time": 32444,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 81,
+      "read_name": "فارس عباد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/frs_a/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=81",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5397,
+          "end_time": 10101,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10101,
+          "end_time": 17094,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 17094,
+          "end_time": 25137,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 86,
+      "read_name": "ناصر القطامي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/qtm/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=86",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 420,
+          "end_time": 4830,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 4830,
+          "end_time": 11256,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 11256,
+          "end_time": 18228,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 87,
+      "read_name": "نبيل الرفاعي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/nabil/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=87",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3402,
+          "end_time": 7938,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 7938,
+          "end_time": 14973,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 14973,
+          "end_time": 23709,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 88,
+      "read_name": "نعمة الحسان",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/namh/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=88",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5980,
+          "end_time": 12040,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 12040,
+          "end_time": 20380,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 20380,
+          "end_time": 31220,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 89,
+      "read_name": "هاني الرفاعي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/hani/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=89",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5140,
+          "end_time": 9220,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9220,
+          "end_time": 16379,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 16379,
+          "end_time": 25080,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 92,
+      "read_name": "ياسر الدوسري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/yasser/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=92",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 147,
+          "end_time": 5922,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 5922,
+          "end_time": 12390,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 12390,
+          "end_time": 20202,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 106,
+      "read_name": "محمد الطبلاوي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/tblawi/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=106",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 7882,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 7882,
+          "end_time": 16304,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 16304,
+          "end_time": 27776,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 27776,
+          "end_time": 42460,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 109,
+      "read_name": "محمد أيوب",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/ayyub/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=109",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 9880,
+          "end_time": 15600,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 15600,
+          "end_time": 24100,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 24100,
+          "end_time": 33000,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 110,
+      "read_name": "محمد صالح عالم شاه",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/shah/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=110",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3927,
+          "end_time": 8148,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 8148,
+          "end_time": 14889,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 14889,
+          "end_time": 23352,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 112,
+      "read_name": "محمد صديق المنشاوي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/minsh/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=112",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 5210,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5210,
+          "end_time": 12085,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 12085,
+          "end_time": 21586,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 21586,
+          "end_time": 32772,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 115,
+      "read_name": "محمد عبدالكريم",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server12.mp3quran.net/m_krm/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=115",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3570,
+          "end_time": 8568,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 8568,
+          "end_time": 15666,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 15666,
+          "end_time": 24066,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 118,
+      "read_name": "محمود خليل الحصري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server13.mp3quran.net/husr/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=118",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 7696,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 7696,
+          "end_time": 16946,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 16946,
+          "end_time": 29819,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 29819,
+          "end_time": 45887,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 123,
+      "read_name": "مشاري العفاسي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/afs/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=123",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 7980,
+          "end_time": 14620,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 14620,
+          "end_time": 23100,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 23100,
+          "end_time": 32560,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 139,
+      "read_name": "ماجد الزامل",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server9.mp3quran.net/zaml/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=139",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 1407,
+          "end_time": 6783,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 6783,
+          "end_time": 13692,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 13692,
+          "end_time": 21420,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 159,
+      "read_name": "خالد المهنا",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server11.mp3quran.net/mohna/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=159",
+      "ayat_count": 4,
+      "ayat_timing": [
+        {
+          "ayah": 0,
+          "polygon": null,
+          "start_time": 0,
+          "end_time": 7864,
+          "x": null,
+          "y": null,
+          "page": null
+        },
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 7864,
+          "end_time": 14356,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 14356,
+          "end_time": 23095,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 23095,
+          "end_time": 33592,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 181,
+      "read_name": "جمعان العصيمي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/jaman/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=181",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 11520,
+          "end_time": 17240,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 17240,
+          "end_time": 33140,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 33140,
+          "end_time": 41760,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 193,
+      "read_name": "يوسف بن نوح أحمد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/noah/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=193",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5250,
+          "end_time": 9891,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9891,
+          "end_time": 16779,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 16779,
+          "end_time": 25935,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 198,
+      "read_name": "محمد رشاد الشريف",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/rashad/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=198",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4284,
+          "end_time": 9702,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9702,
+          "end_time": 18333,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18333,
+          "end_time": 26670,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 201,
+      "read_name": "أحمد الطرابلسي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/trabulsi/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=201",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5124,
+          "end_time": 10794,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10794,
+          "end_time": 20013,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 20013,
+          "end_time": 29442,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 203,
+      "read_name": "أحمد عامر",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/Aamer/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=203",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 7560,
+          "end_time": 12660,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 12660,
+          "end_time": 19800,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 19800,
+          "end_time": 27840,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 217,
+      "read_name": "بندر بليله",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/balilah/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=217",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3600,
+          "end_time": 10220,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10220,
+          "end_time": 19540,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 19540,
+          "end_time": 30080,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 219,
+      "read_name": "وديع اليمني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/wdee3/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=219",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4347,
+          "end_time": 10395,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10395,
+          "end_time": 18816,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18816,
+          "end_time": 28581,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 221,
+      "read_name": "رعد محمد الكردي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/kurdi/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=221",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3980,
+          "end_time": 9280,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9280,
+          "end_time": 18620,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18620,
+          "end_time": 29280,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 225,
+      "read_name": "عبدالرحمن العوسي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server6.mp3quran.net/aloosi/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=225",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4284,
+          "end_time": 9975,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9975,
+          "end_time": 18018,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18018,
+          "end_time": 27510,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 229,
+      "read_name": "محمد خليل القارئ",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server8.mp3quran.net/m_qari/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=229",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 7350,
+          "end_time": 11991,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 11991,
+          "end_time": 18690,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18690,
+          "end_time": 26733,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 232,
+      "read_name": "إبراهيم الدوسري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=232",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 13000,
+          "end_time": 18460,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 18460,
+          "end_time": 26940,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 26940,
+          "end_time": 36520,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 236,
+      "read_name": "عبدالرحمن الماجد",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server10.mp3quran.net/a_majed/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=236",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4599,
+          "end_time": 11130,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 11130,
+          "end_time": 17745,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 17745,
+          "end_time": 26901,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 243,
+      "read_name": "عبدالله الموسى",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server14.mp3quran.net/mousa/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=243",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5040,
+          "end_time": 9912,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9912,
+          "end_time": 17388,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 17388,
+          "end_time": 26544,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 244,
+      "read_name": "عبدالله الخلف",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server14.mp3quran.net/khalf/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=244",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 11600,
+          "end_time": 16219,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 16219,
+          "end_time": 23480,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 23480,
+          "end_time": 31600,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 245,
+      "read_name": "منصور السالمي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server14.mp3quran.net/mansor/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=245",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5000,
+          "end_time": 11220,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 11220,
+          "end_time": 18880,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18880,
+          "end_time": 27060,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 250,
+      "read_name": "محمد البخيت",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server14.mp3quran.net/bukheet/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=250",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5460,
+          "end_time": 11480,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 11480,
+          "end_time": 19360,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 19360,
+          "end_time": 27800,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 256,
+      "read_name": "أحمد خليل شاهين",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/shaheen/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=256",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5208,
+          "end_time": 10605,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10605,
+          "end_time": 19047,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 19047,
+          "end_time": 28413,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 258,
+      "read_name": "عبدالرشيد صوفي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/soufi/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=258",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3738,
+          "end_time": 7980,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 7980,
+          "end_time": 15183,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 15183,
+          "end_time": 23856,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 259,
+      "read_name": "أحمد النفيس",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=259",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3660,
+          "end_time": 10500,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10500,
+          "end_time": 19640,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 19640,
+          "end_time": 29860,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 265,
+      "read_name": "أحمد ديبان",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/deban/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=265",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 3885,
+          "end_time": 8778,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 8778,
+          "end_time": 16968,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 16968,
+          "end_time": 27090,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 268,
+      "read_name": "بيشه وا قادر الكردي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=268",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5397,
+          "end_time": 10626,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10626,
+          "end_time": 18165,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18165,
+          "end_time": 26124,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 273,
+      "read_name": "هيثم الدخين",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/h_dukhain/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=273",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4920,
+          "end_time": 10260,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10260,
+          "end_time": 19180,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 19180,
+          "end_time": 27400,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 282,
+      "read_name": "عبدالعزيز التركي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/a_turki/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=282",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4032,
+          "end_time": 8757,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 8757,
+          "end_time": 15834,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 15834,
+          "end_time": 24780,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 289,
+      "read_name": "أحمد عيسى المعصراوي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/a_maasaraawi/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=289",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4347,
+          "end_time": 10311,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10311,
+          "end_time": 17199,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 17199,
+          "end_time": 25536,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 294,
+      "read_name": "سيد أحمد هاشمي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/s_hashemi/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=294",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 9300,
+          "end_time": 14880,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 14880,
+          "end_time": 22080,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 22080,
+          "end_time": 30860,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 295,
+      "read_name": "خالد كريم محمدي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/kh_mohammadi/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=295",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 8200,
+          "end_time": 14840,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 14840,
+          "end_time": 22740,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 22740,
+          "end_time": 31120,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 299,
+      "read_name": "حسن صالح",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/h_saleh/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=299",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4284,
+          "end_time": 8442,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 8442,
+          "end_time": 15372,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 15372,
+          "end_time": 22785,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 300,
+      "read_name": "صالح الشمراني",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/shamrani/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=300",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5334,
+          "end_time": 10290,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10290,
+          "end_time": 18102,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 18102,
+          "end_time": 27342,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 303,
+      "read_name": "عيسى عمر سناكو",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=303",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4820,
+          "end_time": 10000,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 10000,
+          "end_time": 17600,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 17600,
+          "end_time": 27020,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 314,
+      "read_name": "أنس العمادي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/a_alemadi/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=314",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 4515,
+          "end_time": 9534,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 9534,
+          "end_time": 16506,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 16506,
+          "end_time": 24948,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 340,
+      "read_name": "محمد برهجي",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/M_Burhaji/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=340",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 5460,
+          "end_time": 11088,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 11088,
+          "end_time": 19110,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 19110,
+          "end_time": 28014,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    },
+    {
+      "read_id": 10905,
+      "read_name": "حسن الدغريري",
+      "rewaya": "حفص عن عاصم",
+      "folder_url": "https://server16.mp3quran.net/H-Aldaghriri/Rewayat-Hafs-A-n-Assem/",
+      "surah": 110,
+      "timing_url": "https://www.mp3quran.net/api/v3/ayat_timing?surah=110&read=10905",
+      "ayat_count": 3,
+      "ayat_timing": [
+        {
+          "ayah": 1,
+          "polygon": "343,260.7 120,260.7 120,296.7 343,296.7 343,260.7",
+          "start_time": 9960,
+          "end_time": 14900,
+          "x": "130.00",
+          "y": "279.44",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 2,
+          "polygon": "120,261.44 0,261.44 0,297.31 139.37,297.31 139.37,333.31 343,333.31 343,297.44 120,297.44 120,261.44",
+          "start_time": 14900,
+          "end_time": 22660,
+          "x": "149.37",
+          "y": "315.31",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        },
+        {
+          "ayah": 3,
+          "polygon": "139.37,297.31 0,297.31 0,333.21 60.28,333.21 60.28,369.21 343,369.21 343,333.31 139.37,333.31 139.37,297.31",
+          "start_time": 22660,
+          "end_time": 31580,
+          "x": "70.28",
+          "y": "351.21",
+          "page": "https://www.mp3quran.net/api/quran_pages_svg/603.svg"
+        }
+      ]
+    }
+  ]
+}

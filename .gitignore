@@ -1,3 +1,13 @@
 node_modules
 npm-debug.log
 package-lock.json
+data/quran_pages_svg/
+# =========================================================
+# Generated Quran Data databases
+# Rebuild locally with: pnpm run data:rebuild
+# =========================================================
+
+/data/json/database.json
+/data/json/database/
+/data/csv/database/
+/data/sqlite/database.sqlite
